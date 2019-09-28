@@ -4,8 +4,10 @@ I had the opportunity to do research in the summer immediately after graduation 
 
 The details of our simulations and results can be found in our published paper, [He & Petrovich (2017)](https://arxiv.org/pdf/1710.04698.pdf).
 
-![Figure 1 in paper](/figures/Triples_paper_fig1.png)
+
+<center><img src="figures/Triples_paper_fig1.png" alt="Figure 1 in paper"/></center>  
 *Figure 1 in He & Petrovich (2017). The two panels show the performance of each of the two popular stability criteria in the literature. A value of 0 (i.e. the vertical dashed line) denotes the boundary of the stability criteria, and the red and blue curves denote the fraction of unstable and stable systems, respectively.*
 
-![Figure 4 in paper](/figures/Triples_paper_fig4.png)
+
+<center><img src="figures/Triples_paper_fig4.png" alt="Figure 4 in paper"/></center>  
 *Figure 4 in He & Petrovich (2017). Evolution of a triple stellar system initially close to the stability boundary, that ended in an unstable outcome (ejection of a body).*
