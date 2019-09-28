@@ -4,4 +4,4 @@ My name is Matthias and I am a (4th year, as of Fall 2019) graduate student in t
 
 I am interested in the field of exoplanets. My primary research focus is on exoplanet population synthesis and characterization. I am familiar with the detection, system architectures, dynamics, and formation of exoplanets. Although my graduate-level research deals exclusively with exoplanets, I have also dabbled in other (closely and not-so-closely) related topics in astrophysics including N-body simulations of triple stellar systems, as well as variable stars and astrophysical transients. In fact, each of my research projects started during my undergraduate studies has led to a journal publication – you can read more about them (including the papers themselves, if you are really interested) in the Research and Publications/CV tabs!
 
-![Photo of me in Iceland, August 2019](https://github.com/hematthi/hematthi.github.io/blob/master/photos/Iceland_Skogafoss_me1.JPG =100x)
+![Photo of me in Iceland, August 2019](https://github.com/hematthi/hematthi.github.io/blob/master/photos/Iceland_Skogafoss_me1.JPG =100x150)
