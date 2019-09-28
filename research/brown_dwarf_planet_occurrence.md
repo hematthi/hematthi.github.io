@@ -4,9 +4,9 @@ I was fortunate enough to work under the supervision of Dr. Amaury Triaud for my
 
 The details of this work can be found in our published paper, [He, Triaud, & Gillon (2016)](https://arxiv.org/pdf/1609.05053.pdf).
 
-![Figure 3 in paper](/figures/BDlimits_paper_fig3a.png)
+![Figure 3 in paper](/figures/BDlimits_paper_fig3a.png)  
 *Figure 3 left panel in He, Triaud, & Gillon (2016). Examples of our insertion-retrieval tests for our simulated transits in real data.*
 
-![Figure 8 in paper](/figures/BDlimits_paper_fig8.png)
+![Figure 8 in paper](/figures/BDlimits_paper_fig8.png)  
 *Figure 8 in He, Triaud, & Gillon (2016). The numbers in black are the upper limits of the planet occurrence rates for each radius-period bin. The numbers in blue (from top to bottom in each bin) list the transit probability, the detection probability given a transit, and the expected number of detections in our sample of 44 brown dwarfs if we assume an occurrence rate of 100%.*
 
