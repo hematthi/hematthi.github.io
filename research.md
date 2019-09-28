@@ -10,8 +10,8 @@ I attempt to provide a brief summary of my research here, with the projects list
 
 ## Past research
 
-**Stability and collisions of triple stellar systems**
+[**Stability and collisions of triple stellar systems**](https://hematthi.github.io/research/stability_triples.html)
 
-**Characterizing variable stars with time series analysis**
+[**Characterizing variable stars with time series analysis**](https://hematthi.github.io/research/variable_stars.html)
 
-**Occurrence rates of planets around brown dwarfs**
+[**Occurrence rates of planets around brown dwarfs**](https://hematthi.github.io/research/brown_dwarf_planet_occurrence.html)
