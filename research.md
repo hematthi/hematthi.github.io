@@ -5,7 +5,7 @@ I attempt to provide a brief summary of my research here, with the projects list
 
 ## Current research (my PhD work)
 
-**Architectures of the *Kepler* multi-transiting systems**
+[**Architectures of the *Kepler* multi-transiting systems**](https://hematthi.github.io/research/syssim_architectures.html)
 
 
 ## Past research
