@@ -1,8 +1,9 @@
 # Personal
 
-Coming soon!
+### Photos of memorable trips
 
+[**Iceland**](https://hematthi.github.io/personal/iceland.html)
 
-**Photos of memorable trips**
+### Creative
 
-**Drawings**
+[**Drawings**](https://hematthi.github.io/personal/drawings.html)
