@@ -29,9 +29,6 @@ Volcanic remains with waterfalls.
 <center><img src="photos/Dirty_glacier.JPG" alt="Dirty glaciers" width="800"/></center>  
 View of one of the few remaining glaciers.
 
-<center><img src="photos/Me_with_dirty_glacier.HEIC" alt="Me standing atop a hill, with glacier views" width="800"/></center>  
-Me standing atop a hill, with a grand view of the glaciers.
-
 <center><img src="photos/Black_sand_beach.JPG" alt="Black sand beach" width="800"/></center>  
 Arrival at a black sand beach.
 
