@@ -68,8 +68,7 @@ View from the top of a volcano, peering inside.
 <center><img src="photos/Snaefellsnes_beach.JPG" alt="Snaefellsnes beach" width="800"/></center>  
 Corridor to a black sand beach in Snaefellsnes, the north-west corner of Iceland.
 
-<center><img src="photos/Snaefellsnes_coast.JPG" alt="Snaefellsnes coast" width="800"/></center>  
-<center><img src="photos/Snaefellsnes_coast2.JPG" alt="Snaefellsnes coast" width="800"/></center>  
+<center><img src="photos/Snaefellsnes_coast.JPG" alt="Snaefellsnes coast" width="800"/></center>   
 Coastal views in Snaefellsnes.
 
 <center><img src="photos/Snaefellsnes_coast_arch.JPG" alt="Hole with an arch" width="800"/></center>  
