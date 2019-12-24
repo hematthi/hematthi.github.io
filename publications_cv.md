@@ -5,10 +5,8 @@ To view my full academic CV, click [here](./he_matthias_CV.pdf).
 ### Publications
 
 * [Architectures of Exoplanetary Systems. I: A Clustered Forward Model for Exoplanetary Systems around Kepler's FGK Stars](https://ui.adsabs.harvard.edu/abs/2019MNRAS.490.4575H/abstract)  
-  **Matthias Y. He**, Eric B. Ford, Darin Ragozzine, 2019, MNRAS, 490, 4575-4605
-  
-  arXiv link: [1907:07773](https://arxiv.org/abs/1907.07773)
-  
+  **Matthias Y. He**, Eric B. Ford, Darin Ragozzine, 2019, MNRAS, 490, 4575-4605  
+  arXiv link: [1907:07773](https://arxiv.org/abs/1907.07773)  
   Github repository: [SysSimExClusters](https://github.com/ExoJulia/SysSimExClusters/tree/He_Ford_Ragozzine_2019)
 
 * [On the stability and collisions in triple stellar systems](https://ui.adsabs.harvard.edu/abs/2018MNRAS.474...20H/abstract)  
