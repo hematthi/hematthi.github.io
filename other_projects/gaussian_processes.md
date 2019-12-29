@@ -36,11 +36,11 @@ Whichever kernel you choose, it will typically have a number of "hyperparameters
 These popular kernels can even be combined, if there are multiple features in the data you wish to model!
 
 
-<center><img src="figures/gp_1d_SE_draws.png" alt="Squared Exponential kernel draws" width="400"/></center>  
+<center><img src="figures/gp_1d_SE_draws.png" alt="Squared Exponential kernel draws" width="600"/></center>  
 *Draws from a Gaussian process with a Squared Exponential kernel, with scale factor = 1 and length scale = 0.5. This kernel has the property of smoothness (enforcing points close to each other to be highly correlated).*
 
 
-<center><img src="figures/gp_1d_example.png" alt="GP regression with noisy data" width="400"/></center>  
+<center><img src="figures/gp_1d_example.png" alt="GP regression with noisy data" width="600"/></center>  
 *An example of GP regression for modeling noisy data (blue circles, with standard deviation = 0.1), using the SE kernel. The dashed line and shaded region denote the mean prediction and uncertainty region of the GP posterior, respectively.*
 
 
