@@ -13,7 +13,7 @@ Most commonly, parametric models are used to fit a dataset if there is a good re
 We typically wish to find the optimal or "best-fit" model parameters (in the case of using parametric models, usually), using methods such as maximum likelihood estimation (MLE). However, instead of simply finding a single set of parameters, the Bayesian approach involves inferring a probability distribution over all the possible values for the model parameters. At the heart of the Bayesian method is Bayes' theorem, which essentially involves starting with a *prior* (initial guess or assumption about the distribution, based on "prior" knowledge hence the term) and using new data points to form the *posterior* (the resulting probability distribution updated based on the data).
 
 
-<center><img src="figures/Bayes_theorem.png" alt="Bayes' Theorem"/></center>  
+<center><img src="figures/Bayes_theorem.png" alt="Bayes' Theorem" width="400"/></center>  
 *Baye's Theorem as a diagram. Image taken from [Towards Data Science](https://towardsdatascience.com/bayesian-statistics-for-data-science-45397ec79c94).*
 
 
@@ -28,11 +28,6 @@ Part of the flexibility of GP regression comes from the freedom in choosing the 
 **Mean function:**
 When I first started learning about GP's, I was surprised at how little information I could find regarding the mean function. Indeed, most of the effort and detail is in the kernel function, which we'll get to later. Most tutorials will mention simply choosing a zero (or constant, which is the same as zero after shifting all the data by the same constant) mean function, and leave it at that. To me, the best way to think about the mean function is to think about what you want the model to do in the absence of any training data. Perhaps you have reason to believe that there is some underlying or asymptotic trend (e.g., linear) in the data and you wish to model the variations around that trend with the GP. Or perhaps you may want the model to be especially "bad" when predicting far from the data (see *How I use GPs in my research* below). Or, most likely, you just wish to let the GP do all the work and don't care what the model returns far away from the data, and choose zero/a constant for the mean function.
 
-
-<center><img src="figures/gp_1d_SE_draws.png" alt="Squared Exponential kernel draws"/></center>  
-*Draws from a Gaussian process with a Squared Exponential kernel, with scale factor = 1 and length scale = 0.5. This kernel has the property of smoothness (enforcing points close to each other to be highly correlated).*
-
-
 **Covariance/kernel function:**
 The kernel function defines how data points are related to one another (hence, "covariance"). It defines the structure of the GP and thus should be carefully chosen with the known properties of the function (data) you are trying to model in mind. Maybe there is "spiky" behavior in the data you wish to capture with a *Matern* kernel. Or perhaps the process generating the data is periodic, in which case a *Periodic* kernel would be a naturally good choice. Most commonly, you may want a simple, smooth, and infinitely differentiable kernel, in which case you would adopt the standard *Squared Exponential* (SE; also known as the *Radial Basis Function*, or just "*Gaussian*") kernel.
 
@@ -41,7 +36,11 @@ Whichever kernel you choose, it will typically have a number of "hyperparameters
 These popular kernels can even be combined, if there are multiple features in the data you wish to model!
 
 
-<center><img src="figures/gp_1d_example.png" alt="GP regression with noisy data"/></center>  
+<center><img src="figures/gp_1d_SE_draws.png" alt="Squared Exponential kernel draws" width="400"/></center>  
+*Draws from a Gaussian process with a Squared Exponential kernel, with scale factor = 1 and length scale = 0.5. This kernel has the property of smoothness (enforcing points close to each other to be highly correlated).*
+
+
+<center><img src="figures/gp_1d_example.png" alt="GP regression with noisy data" width="400"/></center>  
 *An example of GP regression for modeling noisy data (blue circles, with standard deviation = 0.1), using the SE kernel. The dashed line and shaded region denote the mean prediction and uncertainty region of the GP posterior, respectively.*
 
 
