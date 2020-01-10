@@ -21,8 +21,9 @@ View inland of Honolulu, across the canal from Waikiki.
 <center><img src="photos_hawaii/Hawaii_Convention_Center.JPG" alt="Hawaii Convention Center" width="800"/></center>  
 Hawaii Convention Center, where the AAS 235 meeting was held.
 
+<center><img src="photos_hawaii/Waikiki_beach1.JPG" alt="Waikiki beach" width="800"/></center>  
 <center><img src="photos_hawaii/Waikiki_beach2.JPG" alt="Waikiki beach" width="800"/></center>  
-View of Waikiki beach.
+Views of Waikiki beach.
 
 <center><img src="photos_hawaii/Waikiki_beach3.JPG" alt="Waikiki beach road" width="800"/></center>  
 Waikiki beach and the Kalakaua Avenue.
@@ -53,6 +54,5 @@ Ala Moana Center (largest shopping mall in Hawaii).
 Palm trees along Ala Moana, near the beach.
 
 <center><img src="photos_hawaii/Ala_Moana_beach1.JPG" alt="Ala Moana beach" width="800"/></center>  
-<center><img src="photos_hawaii/Ala_Moana_beach2.JPG" alt="Ala Moana beach" width="800"/></center>  
 Views along Ala Moana beach, towards Waikiki.
 
