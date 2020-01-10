@@ -1,6 +1,6 @@
 # About Me
 
-<center><img src="/photos/AAS235_headshot1.JPG" alt="Photo of me taken at AAS 235" width="300"/></center>  
+<img src="/photos/AAS235_headshot1.JPG" alt="Photo of me taken at AAS 235" width="300"/>  
 
 ## Welcome!
 
