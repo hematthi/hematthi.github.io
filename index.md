@@ -1,5 +1,7 @@
 # About Me
 
+<center><img src="/photos/AAS235_headshot1.JPG" alt="Photo of me taken at AAS 235" width="300"/></center>  
+
 ## Welcome!
 
 My name is Matthias and I am a (4th year, as of Fall 2019) graduate student in the [Department of Astronomy & Astrophysics at Penn State](https://science.psu.edu/astro). I am working towards a PhD in Astronomy & Astrophysics with a [graduate minor in Computational Science](http://www.csci.psu.edu/minor.html). Prior to starting my PhD in 2016, I went to the University of Toronto for my undergraduate degree where I graduated with high distinction. I am a Canadian citizen.
