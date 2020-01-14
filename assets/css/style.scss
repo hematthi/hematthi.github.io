@@ -7,7 +7,6 @@
 .page-header-custom {
   color: $header-heading-color;
   text-align: center;
-  background-color: $header-bg-color;
   background-image: URL('personal/photos_hawaii/Diamond_Head_view.JPG');
 
   @include large {
