@@ -7,7 +7,7 @@
 .page-header-custom {
   color: $header-heading-color;
   text-align: center;
-  background-image: URL('personal/photos_hawaii/Diamond_Head_view.JPG');
+  background-image: url('personal/photos_hawaii/Diamond_Head_view.JPG'), linear-gradient(120deg, $header-bg-color, $header-bg-color);
 
   @include large {
     padding: 5rem 6rem;
