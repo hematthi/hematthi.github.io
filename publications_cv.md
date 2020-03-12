@@ -2,6 +2,18 @@
 
 <img src="/photos/AAS235_headshot1.JPG" alt="Photo of me taken at AAS 235" width="300"/>  
 
+### Education
+
+**Ph.D. in Astronomy & Astrophysics**, Pennsylvania State University
+*Graduate minor in Computational Science*
+2016-2022 (expected)
+Advisor: Prof. Eric B. Ford
+
+**Honours B.Sc. - Astronomy & Physics Specialist**, University of Toronto
+*High Distinction*
+2012-2016
+Advisor: Prof. Dae-Sik Moon
+
 To view my full academic CV, click [here](./he_matthias_CV.pdf).
 
 
@@ -28,3 +40,33 @@ To view my full academic CV, click [here](./he_matthias_CV.pdf).
 
 * [Supernova and optical transient observations using the three wide-field telescope array of the KMTNet](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9906/1/Supernova-and-optical-transient-observations-using-the-three-wide-field/10.1117/12.2233921.short?SSO=1)  
   Dae-Sik Moon, Sang Chul Kim, Jae-Joon Lee, Mina Pak, Hong Soo Park, **Matthias Y. He**, John Antoniadis, Yuan Qi Ni, Chung-Uk Lee, Seung-Lee Kim, Byeong-Gon Park, Dong-Jin Kim, Sang-Mok Cha, Yongseok Lee, Santiago Gonzalez, 2016, Proc. SPIE 9906
+
+
+### Conferences
+
+* (Jan 4, 2020 - Honolulu, HI) [NASA ExoPAG 21](https://exoplanets.nasa.gov/exep/events/292/exopag-21/) - *Talk*
+  *Also served on a discussion panel of Kepler reliability*
+
+* (Sep 17, 2019 - Penn State) Lunch Talk - *Talk*
+
+* (Aug 20, 2019 - Reykjavik, Iceland) [Extreme Solar Systems IV](https://sites.northwestern.edu/iceland2019/) - *Talk*
+
+* (Jul 29 - Aug 2, 2019 - MIT) [TESS Science Conference I](https://tsc.mit.edu) - *Poster*
+
+* (Jul 19, 2019 - CITA/U of T) Stars and Planets Seminar - *Talk*
+
+* (Jun 17, 2019 - Cornell) [ERES V](http://eres.astro.cornell.edu) - *Talk*
+
+* (Apr 1, 2019 - Penn State) [ICS Symposium](https://ics.psu.edu/news-events/events/ics-symposium-2019-posters/) - *Poster*
+
+* (Mar 22, 2019 - Penn State, Dept. of Statistics) [SMAC Talk](https://science.psu.edu/stat/smac-talks) - *Talk*
+
+* (Jun 22, 2018 - Penn State) [ERES IV](https://sites.psu.edu/eres2018/) - *Talk*
+
+* (Jan 16, 2018 - Penn State) Lunch Talk - *Talk*
+
+* (Jun 13, 2017 - Yale) [ERES III](http://eres-yale.science/2017/) - *Talk*
+
+* (May 9, 2017 - Durham, NC) [SAMSI Transition Workshop](https://www.samsi.info/transition-workshop-2017-8-10-may-2017/) - *Poster*
+
+* (Jul 7, 2016 - CITA/U of T) SURP student presentations- *Talk*
