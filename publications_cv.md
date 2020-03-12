@@ -1,13 +1,21 @@
 # Academic CV
 
+<img src="/photos/AAS235_headshot1.JPG" alt="Photo of me taken at AAS 235" width="300"/>  
+
 To view my full academic CV, click [here](./he_matthias_CV.pdf).
 
+
 ### Publications
+
+* [Architectures of Exoplanetary Systems. II: An Intrinsic Relation between Planetary System Occurrence and Spectral Type for Kepler's FGK Dwarfs](https://ui.adsabs.harvard.edu/abs/2019MNRAS.490.4575H/abstract)  
+  **Matthias Y. He**, Eric B. Ford, Darin Ragozzine, 2020, submitted to MNRAS  
+  arXiv link: [2003.04348](https://arxiv.org/abs/2003.04348)  
+  Github repository: [SysSimExClusters (He_Ford_Ragozzine_2020 branch)](https://github.com/hematthi/SysSimExClusters/tree/He_Ford_Ragozzine_2020)
 
 * [Architectures of Exoplanetary Systems. I: A Clustered Forward Model for Exoplanetary Systems around Kepler's FGK Stars](https://ui.adsabs.harvard.edu/abs/2019MNRAS.490.4575H/abstract)  
   **Matthias Y. He**, Eric B. Ford, Darin Ragozzine, 2019, MNRAS, 490, 4575-4605  
   arXiv link: [1907:07773](https://arxiv.org/abs/1907.07773)  
-  Github repository: [SysSimExClusters](https://github.com/ExoJulia/SysSimExClusters/tree/He_Ford_Ragozzine_2019)
+  Github repository: [SysSimExClusters (He_Ford_Ragozzine_2019 branch)](https://github.com/ExoJulia/SysSimExClusters/tree/He_Ford_Ragozzine_2019)
 
 * [On the stability and collisions in triple stellar systems](https://ui.adsabs.harvard.edu/abs/2018MNRAS.474...20H/abstract)  
   **Matthias Y. He** and Cristobal Petrovich, 2017, MNRAS, 474, 20-31
