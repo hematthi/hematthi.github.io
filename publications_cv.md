@@ -4,14 +4,14 @@
 
 ### Education
 
-**Ph.D. in Astronomy & Astrophysics**, Pennsylvania State University
-*Graduate minor in Computational Science*
-2016-2022 (expected)
+**Ph.D. in Astronomy & Astrophysics**, Pennsylvania State University  
+*Graduate minor in Computational Science*  
+2016-2022 (expected)  
 Advisor: Prof. Eric B. Ford
 
-**Honours B.Sc. - Astronomy & Physics Specialist**, University of Toronto
-*High Distinction*
-2012-2016
+**Honours B.Sc. - Astronomy & Physics Specialist**, University of Toronto  
+*High Distinction*  
+2012-2016  
 Advisor: Prof. Dae-Sik Moon
 
 To view my full academic CV, click [here](./he_matthias_CV.pdf).
@@ -44,29 +44,29 @@ To view my full academic CV, click [here](./he_matthias_CV.pdf).
 
 ### Conferences
 
-* (Jan 4, 2020 - Honolulu, HI) [NASA ExoPAG 21](https://exoplanets.nasa.gov/exep/events/292/exopag-21/) - *Talk*
+* [NASA ExoPAG 21](https://exoplanets.nasa.gov/exep/events/292/exopag-21/) - *Talk* (Jan 4, 2020 - Honolulu, HI)  
   *Also served on a discussion panel of Kepler reliability*
 
-* (Sep 17, 2019 - Penn State) Lunch Talk - *Talk*
+* Lunch Talk - *Talk* (Sep 17, 2019 - Penn State)
 
-* (Aug 20, 2019 - Reykjavik, Iceland) [Extreme Solar Systems IV](https://sites.northwestern.edu/iceland2019/) - *Talk*
+* [Extreme Solar Systems IV](https://sites.northwestern.edu/iceland2019/) - *Talk* (Aug 20, 2019 - Reykjavik, Iceland)
 
-* (Jul 29 - Aug 2, 2019 - MIT) [TESS Science Conference I](https://tsc.mit.edu) - *Poster*
+* [TESS Science Conference I](https://tsc.mit.edu) - *Poster* (Jul 29 - Aug 2, 2019 - MIT)
 
-* (Jul 19, 2019 - CITA/U of T) Stars and Planets Seminar - *Talk*
+* Stars and Planets Seminar - *Talk* (Jul 19, 2019 - CITA/U of T)
 
-* (Jun 17, 2019 - Cornell) [ERES V](http://eres.astro.cornell.edu) - *Talk*
+* [ERES V](http://eres.astro.cornell.edu) - *Talk* (Jun 17, 2019 - Cornell)
 
-* (Apr 1, 2019 - Penn State) [ICS Symposium](https://ics.psu.edu/news-events/events/ics-symposium-2019-posters/) - *Poster*
+* [ICS Symposium](https://ics.psu.edu/news-events/events/ics-symposium-2019-posters/) - *Poster* (Apr 1, 2019 - Penn State)
 
-* (Mar 22, 2019 - Penn State, Dept. of Statistics) [SMAC Talk](https://science.psu.edu/stat/smac-talks) - *Talk*
+* [SMAC Talk](https://science.psu.edu/stat/smac-talks) - *Talk* (Mar 22, 2019 - Penn State, Dept. of Statistics)
 
-* (Jun 22, 2018 - Penn State) [ERES IV](https://sites.psu.edu/eres2018/) - *Talk*
+* [ERES IV](https://sites.psu.edu/eres2018/) - *Talk* (Jun 22, 2018 - Penn State)
 
-* (Jan 16, 2018 - Penn State) Lunch Talk - *Talk*
+* Lunch Talk - *Talk* (Jan 16, 2018 - Penn State)
 
-* (Jun 13, 2017 - Yale) [ERES III](http://eres-yale.science/2017/) - *Talk*
+* [ERES III](http://eres-yale.science/2017/) - *Talk* (Jun 13, 2017 - Yale)
 
-* (May 9, 2017 - Durham, NC) [SAMSI Transition Workshop](https://www.samsi.info/transition-workshop-2017-8-10-may-2017/) - *Poster*
+* [SAMSI Transition Workshop](https://www.samsi.info/transition-workshop-2017-8-10-may-2017/) - *Poster* (May 9, 2017 - Durham, NC)
 
-* (Jul 7, 2016 - CITA/U of T) SURP student presentations- *Talk*
+* SURP student presentations - *Talk* (Jul 7, 2016 - CITA/U of T)
