@@ -7,7 +7,7 @@ To view my full academic CV, click [here](./he_matthias_CV.pdf).
 
 ### Publications
 
-* [Architectures of Exoplanetary Systems. II: An Intrinsic Relation between Planetary System Occurrence and Spectral Type for Kepler's FGK Dwarfs](https://ui.adsabs.harvard.edu/abs/2019MNRAS.490.4575H/abstract)  
+* [Architectures of Exoplanetary Systems. II: An Intrinsic Relation between Planetary System Occurrence and Spectral Type for Kepler's FGK Dwarfs](https://ui.adsabs.harvard.edu/abs/2020arXiv200304348H/abstract)  
   **Matthias Y. He**, Eric B. Ford, Darin Ragozzine, 2020, submitted to MNRAS  
   arXiv link: [2003.04348](https://arxiv.org/abs/2003.04348)  
   Github repository: [SysSimExClusters (He_Ford_Ragozzine_2020 branch)](https://github.com/hematthi/SysSimExClusters/tree/He_Ford_Ragozzine_2020)
