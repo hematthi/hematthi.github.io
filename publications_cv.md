@@ -6,12 +6,12 @@
 
 **Ph.D. in Astronomy & Astrophysics**, Pennsylvania State University  
 *Graduate minor in Computational Science*  
-2016-2022 (expected)  
+2016 - 2021 (expected)  
 Advisor: Prof. Eric B. Ford
 
 **Honours B.Sc. - Astronomy & Physics Specialist**, University of Toronto  
 *High Distinction*  
-2012-2016  
+2012 - 2016  
 Advisor: Prof. Dae-Sik Moon
 
 To view my full academic CV, click [here](./he_matthias_CV.pdf).
@@ -42,7 +42,7 @@ To view my full academic CV, click [here](./he_matthias_CV.pdf).
   Dae-Sik Moon, Sang Chul Kim, Jae-Joon Lee, Mina Pak, Hong Soo Park, **Matthias Y. He**, John Antoniadis, Yuan Qi Ni, Chung-Uk Lee, Seung-Lee Kim, Byeong-Gon Park, Dong-Jin Kim, Sang-Mok Cha, Yongseok Lee, Santiago Gonzalez, 2016, Proc. SPIE 9906
 
 
-### Conferences
+### Conferences and Presentations
 
 * [NASA ExoPAG 21](https://exoplanets.nasa.gov/exep/events/292/exopag-21/) - *Talk* (Jan 4, 2020 - Honolulu, HI)  
   *Also served on a discussion panel of Kepler reliability*
