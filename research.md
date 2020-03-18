@@ -12,6 +12,7 @@ Do all stars host similar numbers and types of planets? We use the Kepler data a
 <center><img src="/research/images/Kepler_planets_variety_NASA_MSFC.jpg" alt="Art: A Variety of Planets" width="800"/></center>  
 *Image credit: NASA MSFC*
 
+---
 
 ### [Architectures of the *Kepler* multi-transiting systems](https://hematthi.github.io/research/syssim_architectures.html)
 
@@ -19,6 +20,8 @@ The Kepler mission detected thousands of exoplanet candidates (planets that orbi
 
 <center><img src="/research/images/Kepler_NASA_Ames.jpg" alt="Art: NASA's Kepler mission" width="800"/></center>  
 *Image credit: NASA Ames*
+
+---
 
 
 ## Past research
@@ -29,6 +32,7 @@ Many stars are in multiple-star systems, gravitationally bound and orbiting a co
 
 <center><img src="/research/images/scifi_triple_stars.jpg" alt="Art: Triple stellar system" width="800"/></center>  
 
+---
 
 ### [Characterizing variable stars with time series analysis](https://hematthi.github.io/research/variable_stars.html)
 
@@ -37,6 +41,7 @@ Some stars change in brightness over time - what causes these variations? We cla
 <center><img src="/research/images/heartbeat_star_NASA_JPL_Caltech.jpg" alt="Art: Heartbeat star variability" width="800"/></center>  
 *Image credit: NASA/JPL - Caltech*
 
+---
 
 ### [Occurrence rates of planets around brown dwarfs](https://hematthi.github.io/research/brown_dwarf_planet_occurrence.html)
 
