@@ -5,7 +5,7 @@ I attempt to provide a brief summary of my research here, with the projects list
 
 ## Current research (my PhD work)
 
-### Occurrence and architectures of planetary systems as a function of stellar type
+### [Occurrence and architectures of planetary systems as a function of stellar type](https://hematthi.github.io/research/syssim_architectures_stellar.html)
 
 Do all stars host similar numbers and types of planets? We use the Kepler data and our forward model to explore how the fraction of stars with planets may depend on the spectral type, as well as their system architectures...
 
