@@ -44,6 +44,10 @@ To view my full academic CV, click [here](./he_matthias_CV.pdf).
 
 ### Conferences and Presentations
 
+* [CHEXO](http://chexo.org) - *Virtual Talk* (June 26, 2020 - Online)
+
+* [AAS 236](https://aas.org/meetings/aas236) - *iPoster* (June 1-3, 2020 - Online) 
+
 * [NASA ExoPAG 21](https://exoplanets.nasa.gov/exep/events/292/exopag-21/) - *Talk* (Jan 4, 2020 - Honolulu, HI)  
   *Also served on a discussion panel of Kepler reliability*
 
