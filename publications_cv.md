@@ -19,10 +19,15 @@ To view my full academic CV, click [here](./he_matthias_CV.pdf).
 
 ### Publications
 
+* [Architectures of Exoplanetary Systems: Eccentricity and Mutual Inclination Distributions of AMD-Stable Planetary Systems](https://ui.adsabs.harvard.edu/abs/2020arXiv200714473H/abstract)  
+  **Matthias Y. He**, Eric B. Ford, Darin Ragozzine, Daniel Carrera, 2020, submitted to AJ  
+  arXiv link: [2007.14473](https://arxiv.org/abs/2007.14473)  
+  Github repository: [SysSimExClusters (He_et_al_2020b branch)](https://github.com/ExoJulia/SysSimExClusters/tree/He_et_al_2020b)
+
 * [Architectures of Exoplanetary Systems. II: An Intrinsic Relation between Planetary System Occurrence and Spectral Type for Kepler's FGK Dwarfs](https://ui.adsabs.harvard.edu/abs/2020arXiv200304348H/abstract)  
-  **Matthias Y. He**, Eric B. Ford, Darin Ragozzine, 2020, submitted to MNRAS  
+  **Matthias Y. He**, Eric B. Ford, Darin Ragozzine, 2020  
   arXiv link: [2003.04348](https://arxiv.org/abs/2003.04348)  
-  Github repository: [SysSimExClusters (He_Ford_Ragozzine_2020 branch)](https://github.com/hematthi/SysSimExClusters/tree/He_Ford_Ragozzine_2020)
+  Github repository: [SysSimExClusters (He_Ford_Ragozzine_2020 branch)](https://github.com/ExoJulia/SysSimExClusters/tree/He_Ford_Ragozzine_2020)
 
 * [Architectures of Exoplanetary Systems. I: A Clustered Forward Model for Exoplanetary Systems around Kepler's FGK Stars](https://ui.adsabs.harvard.edu/abs/2019MNRAS.490.4575H/abstract)  
   **Matthias Y. He**, Eric B. Ford, Darin Ragozzine, 2019, MNRAS, 490, 4575-4605  
@@ -44,7 +49,11 @@ To view my full academic CV, click [here](./he_matthias_CV.pdf).
 
 ### Conferences and Presentations
 
-* [CHEXO](http://chexo.org) - *Virtual Talk* (June 26, 2020 - Online)
+* [DDA 51st](https://dda.aas.org/meetings/2020) - *Talk* (August 3, 2020 - Online)
+
+* [Exoplanets III](https://hdconfsys.zah.uni-heidelberg.de/exoplanets3/index.php) - *Plenary Talk* (July 29, 2020 - Online)
+
+* [CHEXO](http://chexo.org) - *Talk* (June 26, 2020 - Online)
 
 * [AAS 236](https://aas.org/meetings/aas236) - *iPoster* (June 1-3, 2020 - Online) 
 
