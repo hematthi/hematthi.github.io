@@ -49,9 +49,9 @@ To view my full academic CV, click [here](./he_matthias_CV.pdf).
 
 ### Conferences and Presentations
 
-* [EPSC 2020](https://www.epsc2020.eu) - [*Talk*](https://vimeo.com/441849574) (Sep 24, 2020 - Online)
+* [EPSC 2020](https://www.epsc2020.eu) - *Talk* (Sep 24, 2020 - Online)
 
-* [DDA 51st](https://dda.aas.org/meetings/2020) - *Talk* (August 3, 2020 - Online)
+* [DDA 51st](https://dda.aas.org/meetings/2020) - [*Talk*](https://vimeo.com/441849574) (August 3, 2020 - Online)
 
 * [Exoplanets III](https://hdconfsys.zah.uni-heidelberg.de/exoplanets3/index.php) - *Plenary Talk* (July 29, 2020 - Online)
 
