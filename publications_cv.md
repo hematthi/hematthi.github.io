@@ -19,13 +19,13 @@ To view my full academic CV, click [here](./he_matthias_CV.pdf).
 
 ### Publications
 
-* [Architectures of Exoplanetary Systems. III: Eccentricity and Mutual Inclination Distributions of AMD-Stable Planetary Systems](https://ui.adsabs.harvard.edu/abs/2020arXiv200714473H/abstract)  
-  **Matthias Y. He**, Eric B. Ford, Darin Ragozzine, Daniel Carrera, 2020, accepted to AJ  
+* [Architectures of Exoplanetary Systems. III: Eccentricity and Mutual Inclination Distributions of AMD-stable Planetary Systems](https://ui.adsabs.harvard.edu/abs/2020arXiv200714473H/abstract)  
+  **Matthias Y. He**, Eric B. Ford, Darin Ragozzine, Daniel Carrera, 2020, AJ, 160, 276-314  
   arXiv link: [2007.14473](https://arxiv.org/abs/2007.14473)  
   Github repository: [SysSimExClusters (He_et_al_2020b branch)](https://github.com/ExoJulia/SysSimExClusters/tree/He_et_al_2020b)
 
 * [Architectures of Exoplanetary Systems. II: An Increase in Inner Planetary System Occurrence Towards Later Spectral Types for Kepler's FGK Dwarfs](https://ui.adsabs.harvard.edu/abs/2020arXiv200304348H/abstract)  
-  **Matthias Y. He**, Eric B. Ford, Darin Ragozzine, 2020, under review in AJ  
+  **Matthias Y. He**, Eric B. Ford, Darin Ragozzine, 2020, AJ, 161, 16-40  
   arXiv link: [2003.04348](https://arxiv.org/abs/2003.04348)  
   Github repository: [SysSimExClusters (He_Ford_Ragozzine_2020 branch)](https://github.com/ExoJulia/SysSimExClusters/tree/He_Ford_Ragozzine_2020)
 
@@ -49,7 +49,13 @@ To view my full academic CV, click [here](./he_matthias_CV.pdf).
 
 ### Conferences and Presentations
 
+* [PLATO ESP 2020](https://platoesp.org) - *Talk* (Dec 3, 2020 - Online)
+
+* [Exoplanet Demographics 2020](https://nexsci.caltech.edu/conferences/exodem/) - *Talk* (Nov 11, 2020 - Online)
+
 * [EPSC 2020](https://www.epsc2020.eu) - *Talk* (Sep 24, 2020 - Online)
+
+* CEHW Seminar - *Talk* (Sep 14, 2020 - Online)
 
 * [DDA 51st](https://dda.aas.org/meetings/2020) - [*Talk*](https://vimeo.com/441849574) (August 3, 2020 - Online)
 
