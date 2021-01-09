@@ -2,7 +2,7 @@
 
 *Do all stars have planets? Are planets more common around some types of stars than others? How do the planetary orbits vary with the host star properties?*
 
-These are the main questions we address in our second paper of the "Architectures of Exoplanetary Systems" series: [He, Ford, & Ragozzine (2020)](https://arxiv.org/abs/2003.04348).
+These are the main questions we address in our second paper of the "Architectures of Exoplanetary Systems" series: [He, Ford, & Ragozzine (2020a)](https://arxiv.org/abs/2003.04348).
 
 This work builds on the work in our previous paper, [He, Ford, & Ragozzine (2019)](https://arxiv.org/abs/1907.07773) (which we will refer to as Paper I), where we developed several models for the intrinsic architectures of planetary systems by forward modelling the Kepler catalog of planet candidates. See this [page](https://hematthi.github.io/research/syssim_architectures.html) for a high-level summary of our methods and results. In that paper, we showed that our forward modelling framework allows us to infer many things about the way planets are distributed between and across stars. However, we also assumed that the distribution of planetary systems was the same across all stars. While this assumption allows us to characterize the distribution of planetary systems across all the stars as a whole, it turns out that the data also allows us to explore how the distribution may change as a function of the types of stars hosting them!
 
@@ -14,7 +14,7 @@ This work builds on the work in our previous paper, [He, Ford, & Ragozzine (2019
 
 To measure how the occurrence of planets might change with stellar (spectral) type, we first need a large sample of planets around a large sample of stars across a wide range of spectral types. This is exactly what Kepler provided; not only did the mission yield several thousand exoplanet candidates, but it detected these planets around main sequence stars spanning a wide range of temperatures.
 
-Stars are typically classified based on their effective temperatures, with the terms "early" meaning hotter temperatures and "late" meaning cooler temperatures. Kepler found planets mainly around mainly F, G, K, and M dwarf stars, which span effective temperatures from ~7000K to below ~4000K! For comparison, our Sun is a G2 dwarf with an effective temperature of about 5780K. Earlier type (hotter) stars tend to be larger and more massive than later type (cooler) stars. (More massive stars are also much shorter-lived, because they burn up their energy at a much faster rate, and as a result they are far less common!)
+Stars are typically classified based on their effective temperatures, with the terms "early" meaning hotter temperatures and "late" meaning cooler temperatures. Kepler found planets around mainly F, G, K, and M dwarf stars, which span effective temperatures from ~7000K to below ~4000K. For comparison, our Sun is a G2 dwarf with an effective temperature of about 5780K. Earlier type (hotter) stars tend to be larger and more massive than later type (cooler) stars. (More massive stars are also much shorter-lived, because they burn up their energy at a much faster rate, and as a result they are far less common!)
 
 Unfortunately, the effective temperatures, masses, and radii of stars are rather difficult to measure precisely, and require a good deal of stellar modelling. One way in which astronomers can more quickly classify stars is to measure their *colors*, which simply involves measuring the magnitudes of the stars in two or more wavelength bands and subtracting them. This works because hotter objects emit more energy at shorter wavelengths, and thus appear *bluer* than cooler objects which are *redder*. However, the measured colors also need to be corrected for *differential reddening* caused by *extinction* due to interstellar dust and material. This is done by subtracting a term from the color for how much bluer the star should be compared to what we see, which is typically estimated by how far the star is from us and how much dust we expect to be along the line of sight. The figure below shows the strong correlation between the stellar effective temperatures and the (reddening-corrected) b<sub>p</sub>-r<sub>p</sub> colors measured from the Gaia mission, for the sample of Kepler FGK dwarf stars used in our studies. We use the Gaia colors as a proxy for spectral type in this analysis.
 
@@ -24,17 +24,17 @@ Unfortunately, the effective temperatures, masses, and radii of stars are rather
 
 ### Kepler sensitivity to transiting planets
 
-Figuring out the true occurrence of planets as a function of stellar type is complicated because not only do different types of stars potentially host different numbers (and types) of planets, but they also have different detection limits which distorts how many planets we can see around each star!
+Figuring out the true occurrence of planets as a function of stellar type is complicated because not only do different types of stars potentially host different numbers (and types) of planets, but they also have different detection limits which affects how many planets we can see around each star!
 
 Several properties of the stars affect the detectability of planets around them using the transit method.
 * First, a planet must transit at all in order to have any chance at being detected by transit surveys! This is a function of the size of the star: larger stars are more likely to cause transits simply due to the chance that the planet's orbit passes in front of the star along our line of sight (this is commonly referred to as the "geometric transit probability", which is proportional to the stellar radius).
 * Given a transiting planet, how likely we are to detect a transit depends on its signal to noise ratio (SNR). The signal is the transit depth times the square root of the duration, while the noise is the photometric variability of the light curve.
-* To first approximation, the transit depth of a planet is simply a geometric effect: the planet blocks out a small fraction of the total light coming from the star during its transit. The transit depth is inversely proportional to the square of the stellar radius. Thus for a given sized planet, it would induce a larger transit depth if it were transiting a smaller, cooler star than a larger, hotter star.
+* To first approximation, the transit depth of a planet is simply a geometric effect: the planet blocks out a small fraction of the total light coming from the star during its transit. The transit depth is inversely proportional to the stellar radius squared. Thus for a given sized planet, it would induce a larger transit depth if it were transiting a smaller, cooler star than a larger, hotter star.
 * However, larger stars also induce longer transit durations, due to the distance a planet must travel in order to cross the stellar disk.
 * Finally, cooler stars are typically fainter and thus Kepler's photometric precision of these targets is worse than that of hotter stars (i.e. the light curves are noisier).
 All of these factors must be simultaneously accounted for in order to compute the detection efficiency of planets around each star.
 
-<center><img src="figures/Clusters_paper2_fig8.pdf" alt="Figure 8 in paper"/></center>  
+<center><img src="figures/Clusters_paper2_fig8.png" alt="Figure 8 in paper"/></center>  
 *Figure 8 in He, Ford, & Ragozzine (2020a). Planets transiting cooler (redder) stars induce a larger transit depth due to the smaller sizes of the stars, but Kepler's photometry of these stars is noisier (quantified by the root-mean-square CDPP values) thus compromising our ability to recover transits.*
 
 
