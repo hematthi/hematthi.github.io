@@ -34,7 +34,7 @@ Several properties of the stars affect the detectability of planets around them 
 * Finally, cooler stars are typically fainter and thus Kepler's photometric precision of these targets is worse than that of hotter stars (i.e. the light curves are noisier).
 All of these factors must be simultaneously accounted for in order to compute the detection efficiency of planets around each star.
 
-<center><img src="figures/Clusters_paper2_fig8.png" alt="Figure 8 in paper"/></center>  
+<center><img src="figures/Clusters_paper2_fig8.png" alt="Figure 8 in paper" width="500"/></center>  
 *Figure 8 in He, Ford, & Ragozzine (2020a). Planets transiting cooler (redder) stars induce a larger transit depth due to the smaller sizes of the stars, but Kepler's photometry of these stars is noisier (quantified by the root-mean-square CDPP values) thus compromising our ability to recover transits.*
 
 
