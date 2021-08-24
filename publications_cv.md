@@ -6,7 +6,7 @@
 
 **Ph.D. in Astronomy & Astrophysics**, Pennsylvania State University  
 *Graduate minor in Computational Science*  
-2016 - 2021 (expected)  
+2016 - 2022 (expected)  
 Advisor: Prof. Eric B. Ford
 
 **Honours B.Sc. - Astronomy & Physics Specialist**, University of Toronto  
@@ -19,13 +19,21 @@ To view my full academic CV, click [here](./he_matthias_CV.pdf).
 
 ### Publications
 
+* [Friends and Foes: Conditional Occurrence Rates of Exoplanet Companions and their Impact on Radial Velocity Follow-up Surveys](https://ui.adsabs.harvard.edu/abs/2021arXiv210504703H/abstract)  
+  **Matthias Y. He**, Eric B. Ford, Darin Ragozzine, 2021b, AJ, in press  
+  arXiv link: [2105.04703](https://arxiv.org/abs/2105.04703)  
+
+* [Evidence for a Non-Dichotomous Solution to the Kepler Dichotomy: Mutual Inclinations of Kepler Planetary Systems from Transit Duration Variations](https://ui.adsabs.harvard.edu/abs/2021arXiv210615589M/abstract)
+  Sarah C. Millholland, **Matthias Y. He**, Eric B. Ford, Darin Ragozzine, Daniel Fabrycky, Joshua N. Winn, 2021, AJ, in press
+  arXiv link: [2106.15589](https://arxiv.org/abs/2106.15589)
+
 * [Architectures of Exoplanetary Systems. III: Eccentricity and Mutual Inclination Distributions of AMD-stable Planetary Systems](https://ui.adsabs.harvard.edu/abs/2020arXiv200714473H/abstract)  
   **Matthias Y. He**, Eric B. Ford, Darin Ragozzine, Daniel Carrera, 2020, AJ, 160, 276-314  
   arXiv link: [2007.14473](https://arxiv.org/abs/2007.14473)  
   Github repository: [SysSimExClusters (He_et_al_2020b branch)](https://github.com/ExoJulia/SysSimExClusters/tree/He_et_al_2020b)
 
-* [Architectures of Exoplanetary Systems. II: An Increase in Inner Planetary System Occurrence Towards Later Spectral Types for Kepler's FGK Dwarfs](https://ui.adsabs.harvard.edu/abs/2020arXiv200304348H/abstract)  
-  **Matthias Y. He**, Eric B. Ford, Darin Ragozzine, 2020, AJ, 161, 16-40  
+* [Architectures of Exoplanetary Systems. II: An Increase in Inner Planetary System Occurrence Towards Later Spectral Types for Kepler's FGK Dwarfs](https://ui.adsabs.harvard.edu/abs/2021AJ....161...16H/abstract)  
+  **Matthias Y. He**, Eric B. Ford, Darin Ragozzine, 2021, AJ, 161, 16-40  
   arXiv link: [2003.04348](https://arxiv.org/abs/2003.04348)  
   Github repository: [SysSimExClusters (He_Ford_Ragozzine_2020 branch)](https://github.com/ExoJulia/SysSimExClusters/tree/He_Ford_Ragozzine_2020)
 
