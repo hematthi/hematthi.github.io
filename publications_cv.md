@@ -21,10 +21,10 @@ To view my full academic CV, click [here](./he_matthias_CV.pdf).
 
 * [Friends and Foes: Conditional Occurrence Rates of Exoplanet Companions and their Impact on Radial Velocity Follow-up Surveys](https://ui.adsabs.harvard.edu/abs/2021arXiv210504703H/abstract)  
   **Matthias Y. He**, Eric B. Ford, Darin Ragozzine, 2021b, AJ, in press  
-  arXiv link: [2105.04703](https://arxiv.org/abs/2105.04703)  
+  arXiv link: [2105.04703](https://arxiv.org/abs/2105.04703)
 
-* [Evidence for a Non-Dichotomous Solution to the Kepler Dichotomy: Mutual Inclinations of Kepler Planetary Systems from Transit Duration Variations](https://ui.adsabs.harvard.edu/abs/2021arXiv210615589M/abstract)
-  Sarah C. Millholland, **Matthias Y. He**, Eric B. Ford, Darin Ragozzine, Daniel Fabrycky, Joshua N. Winn, 2021, AJ, in press
+* [Evidence for a Non-Dichotomous Solution to the Kepler Dichotomy: Mutual Inclinations of Kepler Planetary Systems from Transit Duration Variations](https://ui.adsabs.harvard.edu/abs/2021arXiv210615589M/abstract)  
+  Sarah C. Millholland, **Matthias Y. He**, Eric B. Ford, Darin Ragozzine, Daniel Fabrycky, Joshua N. Winn, 2021, AJ, in press  
   arXiv link: [2106.15589](https://arxiv.org/abs/2106.15589)
 
 * [Architectures of Exoplanetary Systems. III: Eccentricity and Mutual Inclination Distributions of AMD-stable Planetary Systems](https://ui.adsabs.harvard.edu/abs/2020arXiv200714473H/abstract)  
