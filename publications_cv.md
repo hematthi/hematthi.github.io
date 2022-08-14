@@ -2,22 +2,38 @@
 
 <img src="/photos/AAS235_headshot1.JPG" alt="Photo of me taken at AAS 235" width="300"/>  
 
+
+### Positions
+
+**Postdoctoral Research Associate**, University of Notre Dame
+2022 - Present
+Advisor: Prof. Lauren M. Weiss
+
+
 ### Education
 
 **Ph.D. in Astronomy & Astrophysics**, Pennsylvania State University  
-*Graduate minor in Computational Science*  
-2016 - 2022 (expected)  
+[*Graduate minor in Computational Science*](http://www.csci.psu.edu)  
+2016 - 2022
 Advisor: Prof. Eric B. Ford
+Dissertation: [*Statistical Inference on the Distribution of Exoplanetary Systems: Correlations in Planetary System Architectures*](https://etda.libraries.psu.edu/catalog/20343myh7)
 
 **Honours B.Sc. - Astronomy & Physics Specialist**, University of Toronto  
 *High Distinction*  
 2012 - 2016  
 Advisor: Prof. Dae-Sik Moon
 
-To view my full academic CV, click [here](./he_matthias_CV.pdf).
+To view my full academic CV, click [here](./he_matthias_CV.pdf) (last updated August 2021).
 
 
 ### Publications
+
+* Debiasing the Minimum-Mass Extrasolar Nebula: On the Diversity of Solid Disk Profiles (submitted)
+  **Matthias Y. He**, Eric B. Ford, submitted to AJ, (13pp)
+
+* [Edge-of-the-Multis: Evidence for a Transition in the Outer Architectures of Compact Multiplanet Systems](https://ui.adsabs.harvard.edu/abs/2022AJ....164...72M/abstract)
+  Sarah C. Millholland, **Matthias Y. He**, Jon K. Zink, 2022, AJ, 164, 72-87
+  arXiv link: [2207.10068](https://arxiv.org/abs/2207.10068)
 
 * [Friends and Foes: Conditional Occurrence Rates of Exoplanet Companions and their Impact on Radial Velocity Follow-up Surveys](https://ui.adsabs.harvard.edu/abs/2021arXiv210504703H/abstract)  
   **Matthias Y. He**, Eric B. Ford, Darin Ragozzine, 2021b, AJ, 162, 216-238  
@@ -71,7 +87,7 @@ To view my full academic CV, click [here](./he_matthias_CV.pdf).
 
 * [CHEXO](http://chexo.org) - *Talk* (June 26, 2020 - Online)
 
-* [AAS 236](https://aas.org/meetings/aas236) - *iPoster* (June 1-3, 2020 - Online) 
+* [AAS 236](https://aas.org/meetings/aas236) - *iPoster* (June 1-3, 2020 - Online)
 
 * [NASA ExoPAG 21](https://exoplanets.nasa.gov/exep/events/292/exopag-21/) - *Talk* (Jan 4, 2020 - Honolulu, HI)  
   *Also served on a discussion panel of Kepler reliability*
