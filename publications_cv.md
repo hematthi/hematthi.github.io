@@ -5,8 +5,8 @@
 
 ### Positions
 
-**Postdoctoral Research Associate**, University of Notre Dame
-2022 - Present
+**Postdoctoral Research Associate**, University of Notre Dame  
+2022 - Present  
 Advisor: Prof. Lauren M. Weiss
 
 
