@@ -77,7 +77,7 @@ To view my full academic CV, click [here](./he_matthias_CV.pdf) (last updated Au
 
 ### Conferences and Presentations
 
-* Penn State Dissertation Defense [(view recording on exoplanet-talks.org!)](https://exoplanet-talks.org/talk/402) - *Thesis defense* (Feb 15, 2022 - Virtual)
+* Penn State Dissertation Defense - [*Thesis Talk* (recording on exoplanet-talks.org!)](https://exoplanet-talks.org/talk/402) (Feb 15, 2022 - Virtual)
 
 * [ERES VII](https://sites.psu.edu/eres2022/) - *Poster* (Aug 1-2, 2022 - Penn State)
 
