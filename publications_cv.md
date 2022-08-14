@@ -23,13 +23,17 @@ Dissertation: [*Statistical Inference on the Distribution of Exoplanetary System
 2012 - 2016  
 Advisor: Prof. Dae-Sik Moon
 
-To view my full academic CV, click [here](./he_matthias_CV.pdf) (last updated August 2021).
+
+To view my full academic CV, click [here](./he_matthias_CV.pdf) (last updated August 2022).
 
 
 ### Publications
 
 * Debiasing the Minimum-Mass Extrasolar Nebula: On the Diversity of Solid Disk Profiles (submitted)  
   **Matthias Y. He**, Eric B. Ford, submitted to AJ, (13pp)
+
+* Developing a Drift Rate Distribution for Technosignature Searches of Exoplanets (submitted)  
+  Megan G. Li, Sofia Z. Sheikh, Christian Gilbertson, **Matthias Y. He**, Howard Isaacson, Steve Croft, Evan L. Sneed, submitted to AJ, (11pp)
 
 * [Edge-of-the-Multis: Evidence for a Transition in the Outer Architectures of Compact Multiplanet Systems](https://ui.adsabs.harvard.edu/abs/2022AJ....164...72M/abstract)  
   Sarah C. Millholland, **Matthias Y. He**, Jon K. Zink, 2022, AJ, 164, 72-87  
@@ -73,21 +77,37 @@ To view my full academic CV, click [here](./he_matthias_CV.pdf) (last updated Au
 
 ### Conferences and Presentations
 
-* [PLATO ESP 2020](https://platoesp.org) - *Talk* (Dec 3, 2020 - Online)
+* Penn State Dissertation Defense [(view recording on exoplanet-talks.org!)](https://exoplanet-talks.org/talk/402) - *Thesis defense* (Feb 15, 2022 - Virtual)
 
-* [Exoplanet Demographics 2020](https://nexsci.caltech.edu/conferences/exodem/) - *Talk* (Nov 11, 2020 - Online)
+* [ERES VII](https://sites.psu.edu/eres2022/) - *Poster* (Aug 1-2, 2022 - Penn State)
 
-* [EPSC 2020](https://www.epsc2020.eu) - *Talk* (Sep 24, 2020 - Online)
+* [DDA 53rd](https://dda.aas.org/meetings/2022/program) - *Poster* (Apr 25-28, 2022 - Flatiron Institute)
 
-* CEHW Seminar - *Talk* (Sep 14, 2020 - Online)
+* [Center for Space and Habitability (CSH) Fellowship](https://www.csh.unibe.ch/research/programs/csh__bernoulli_fellowships/index_eng.html) - *Talk* (Feb 2, 2022 - Virtual)
 
-* [DDA 51st](https://dda.aas.org/meetings/2020) - [*Talk*](https://vimeo.com/441849574) (August 3, 2020 - Online)
+* [BAEM 39](https://sites.google.com/site/bayareaexoplanets/) - *Talk* (Dec 3, 2021 - Virtual)
 
-* [Exoplanets III](https://hdconfsys.zah.uni-heidelberg.de/exoplanets3/index.php) - *Plenary Talk* (July 29, 2020 - Online)
+* UChicago Exoplanet Group - *Talk* (Oct 18, 2021 - Virtual)
 
-* [CHEXO](http://chexo.org) - *Talk* (June 26, 2020 - Online)
+* [ERES VI](https://eres2021.com) - *Poster* (May 24-26, 2021 - Virtual)
 
-* [AAS 236](https://aas.org/meetings/aas236) - *iPoster* (June 1-3, 2020 - Online)
+* [CHEXO](http://chexo.org) - *Talk* (May 14, 2021 - Virtual)
+
+* [PLATO ESP 2020](https://platoesp.org) - *Talk* (Dec 3, 2020 - Virtual)
+
+* [Exoplanet Demographics 2020](https://nexsci.caltech.edu/conferences/exodem/) - *Talk* (Nov 11, 2020 - Virtual)
+
+* [EPSC 2020](https://www.epsc2020.eu) - *Talk* (Sep 24, 2020 - Virtual)
+
+* CEHW Seminar - *Talk* (Sep 14, 2020 - Virtual)
+
+* [DDA 51st](https://dda.aas.org/meetings/2020) - [*Talk*](https://vimeo.com/441849574) (August 3, 2020 - Virtual)
+
+* [Exoplanets III](https://hdconfsys.zah.uni-heidelberg.de/exoplanets3/index.php) - *Plenary Talk* (July 29, 2020 - Virtual)
+
+* [CHEXO](http://chexo.org) - *Talk* (June 26, 2020 - Virtual)
+
+* [AAS 236](https://aas.org/meetings/aas236) - *iPoster* (June 1-3, 2020 - Virtual)
 
 * [NASA ExoPAG 21](https://exoplanets.nasa.gov/exep/events/292/exopag-21/) - *Talk* (Jan 4, 2020 - Honolulu, HI)  
   *Also served on a discussion panel of Kepler reliability*
