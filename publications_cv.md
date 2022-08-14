@@ -14,8 +14,8 @@ Advisor: Prof. Lauren M. Weiss
 
 **Ph.D. in Astronomy & Astrophysics**, Pennsylvania State University  
 [*Graduate minor in Computational Science*](http://www.csci.psu.edu)  
-2016 - 2022
-Advisor: Prof. Eric B. Ford
+2016 - 2022  
+Advisor: Prof. Eric B. Ford  
 Dissertation: [*Statistical Inference on the Distribution of Exoplanetary Systems: Correlations in Planetary System Architectures*](https://etda.libraries.psu.edu/catalog/20343myh7)
 
 **Honours B.Sc. - Astronomy & Physics Specialist**, University of Toronto  
@@ -28,11 +28,11 @@ To view my full academic CV, click [here](./he_matthias_CV.pdf) (last updated Au
 
 ### Publications
 
-* Debiasing the Minimum-Mass Extrasolar Nebula: On the Diversity of Solid Disk Profiles (submitted)
+* Debiasing the Minimum-Mass Extrasolar Nebula: On the Diversity of Solid Disk Profiles (submitted)  
   **Matthias Y. He**, Eric B. Ford, submitted to AJ, (13pp)
 
-* [Edge-of-the-Multis: Evidence for a Transition in the Outer Architectures of Compact Multiplanet Systems](https://ui.adsabs.harvard.edu/abs/2022AJ....164...72M/abstract)
-  Sarah C. Millholland, **Matthias Y. He**, Jon K. Zink, 2022, AJ, 164, 72-87
+* [Edge-of-the-Multis: Evidence for a Transition in the Outer Architectures of Compact Multiplanet Systems](https://ui.adsabs.harvard.edu/abs/2022AJ....164...72M/abstract)  
+  Sarah C. Millholland, **Matthias Y. He**, Jon K. Zink, 2022, AJ, 164, 72-87  
   arXiv link: [2207.10068](https://arxiv.org/abs/2207.10068)
 
 * [Friends and Foes: Conditional Occurrence Rates of Exoplanet Companions and their Impact on Radial Velocity Follow-up Surveys](https://ui.adsabs.harvard.edu/abs/2021arXiv210504703H/abstract)  
