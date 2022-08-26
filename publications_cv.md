@@ -29,8 +29,9 @@ To view my full academic CV, click [here](./he_matthias_CV.pdf) (last updated Au
 
 ### Publications
 
-* Debiasing the Minimum-Mass Extrasolar Nebula: On the Diversity of Solid Disk Profiles (submitted)  
-  **Matthias Y. He**, Eric B. Ford, submitted to AJ, (13pp)
+* [Debiasing the Minimum-Mass Extrasolar Nebula: On the Diversity of Solid Disk Profiles (submitted)](https://ui.adsabs.harvard.edu/abs/2022arXiv220809031H/abstract)  
+  **Matthias Y. He**, Eric B. Ford, submitted to AJ, (13pp)  
+  arXiv link: [2208.09031](https://arxiv.org/abs/2208.09031)
 
 * Developing a Drift Rate Distribution for Technosignature Searches of Exoplanets (submitted)  
   Megan G. Li, Sofia Z. Sheikh, Christian Gilbertson, **Matthias Y. He**, Howard Isaacson, Steve Croft, Evan L. Sneed, submitted to AJ, (11pp)
