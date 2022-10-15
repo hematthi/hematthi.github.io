@@ -76,6 +76,25 @@ To view my full academic CV, click [here](./he_matthias_CV.pdf) (last updated Au
   Dae-Sik Moon, Sang Chul Kim, Jae-Joon Lee, Mina Pak, Hong Soo Park, **Matthias Y. He**, John Antoniadis, Yuan Qi Ni, Chung-Uk Lee, Seung-Lee Kim, Byeong-Gon Park, Dong-Jin Kim, Sang-Mok Cha, Yongseok Lee, Santiago Gonzalez, 2016, Proc. SPIE 9906
 
 
+### Software Packages
+
+* [SysSimPyMMEN](https://syssimpymmen.readthedocs.io/en/latest/)  
+  Language: Python 3  
+  Developers: **Matthias Y. He**
+
+* [SysSimPyPlots](https://syssimpyplots.readthedocs.io/en/latest/)  
+  Language: Python 3  
+  Developers: **Matthias Y. He**
+
+* [SysSimExClusters](https://github.com/hematthi/SysSimExClusters)  
+  Language: Julia  
+  Developers: **Matthias Y. He**, Eric B. Ford
+
+* [ExoplanetsSysSim](https://github.com/ExoJulia/ExoplanetsSysSim.jl)  
+  Language: Julia  
+  Developers: Eric B. Ford, **Matthias Y. He**, Danley Hsu, Darin Ragozzine
+
+
 ### Conferences and Presentations
 
 * Penn State Dissertation Defense - [*Thesis Talk* (recording on exoplanet-talks.org!)](https://exoplanet-talks.org/talk/402) (Feb 15, 2022 - Virtual)
