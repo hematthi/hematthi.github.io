@@ -24,7 +24,7 @@ Dissertation: [*Statistical Inference on the Distribution of Exoplanetary System
 Advisor: Prof. Dae-Sik Moon
 
 
-To view my full academic CV, click [here](./he_matthias_CV.pdf) (last updated August 2022).
+To view my full academic CV, click [here](./he_matthias_CV.pdf) (last updated October 31, 2022).
 
 
 ### Publications
