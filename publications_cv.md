@@ -24,7 +24,7 @@ Dissertation: [*Statistical Inference on the Distribution of Exoplanetary System
 Advisor: Prof. Dae-Sik Moon
 
 
-To view my full academic CV, click [here](./he_matthias_CV.pdf) (last updated October 31, 2022).
+To view my full academic CV, click [here](./he_matthias_CV.pdf) (last updated December 13, 2022).
 
 
 ### Publications
@@ -96,6 +96,10 @@ To view my full academic CV, click [here](./he_matthias_CV.pdf) (last updated Oc
 
 
 ### Conferences and Presentations
+
+* [COSE-JAM](https://science.nd.edu/events/2022/12/09/cose-jam-colleges-of-science-and-engineering-joint-annual-meeting/) - *Poster* (Dec 9, 2022 - Notre Dame)
+
+* [GLEAM](https://u.osu.edu/gleam2022/) - *Talk* (Nov 17-18, 2022 - Ohio State)
 
 * Penn State Dissertation Defense - [*Thesis Talk* (recording on exoplanet-talks.org!)](https://exoplanet-talks.org/talk/402) (Feb 15, 2022 - Virtual)
 
