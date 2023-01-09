@@ -14,13 +14,16 @@ In the summer of 2019, I had the wonderful opportunity to spend over a week in I
 
 To start the new year of 2020, I spent a week in Honolulu, Hawaii to give a talk at the [ExoPAG 21 meeting](https://exoplanets.nasa.gov/exep/events/292/exopag-21/) and attend the [AAS 235](https://aas.org/meetings/aas235) conference. Here are some photos from this trip!
 
-<center><img src="/personal/photos_hawaii/Ala_Moana_beach2.JPG" alt="Ala Moana beach" width="400"/></center> 
+<center><img src="/personal/photos_hawaii_2020-01/Ala_Moana_beach2.JPG" alt="Ala Moana beach" width="400"/></center> 
 
 ---
 
 ### [Hawaii (Dec 2022)](https://hematthi.github.io/personal/hawaii_2022-12.html)
 
 I had the opportunity to revisit Hawaii near the end of 2022 for a combined vacation and work (observing on Keck) trip! This time, my family also joined me (for their first time in Hawaii), and we got to visit many more places, including the big island!
+
+<center><img src="/personal/photos_hawaii_2022-12/Kualoa_Ranch2.jpeg" alt="Kualoa Ranch" width="400"/><img src="/personal/photos_hawaii_2022-12/Sea_Life_Park1.jpeg" alt="Sea Life Park dolphins exhibit" width="400"/></center> 
+<center><img src="/personal/photos_hawaii_2022-12/Pololu_Valley4.jpeg" alt="Pololu Valley" width="400"/><img src="/personal/photos_hawaii_2022-12/Hilo_Hawaiian_Hotel2.jpeg" alt="Hilo Hawaiian Hotel" width="400"/></center> 
 
 ---
 
