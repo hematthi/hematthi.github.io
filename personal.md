@@ -18,12 +18,15 @@ To start the new year of 2020, I spent a week in Honolulu, Hawaii to give a talk
 
 ---
 
-### [Hawaii (Dec 2022)](https://hematthi.github.io/personal/hawaii_2022-12.html)
+### Hawaii (Dec 2022)
 
 I had the opportunity to revisit Hawaii near the end of 2022 for a combined vacation and work (observing on Keck) trip! This time, my family also joined me (for their first time in Hawaii), and we got to visit many more places, including the big island!
 
-<center><img src="/personal/photos_hawaii_2022-12/Kualoa_Ranch2.jpeg" alt="Kualoa Ranch" width="400"/><img src="/personal/photos_hawaii_2022-12/Sea_Life_Park1.jpeg" alt="Sea Life Park dolphins exhibit" width="400"/></center> 
-<center><img src="/personal/photos_hawaii_2022-12/Pololu_Valley4.jpeg" alt="Pololu Valley" width="400"/><img src="/personal/photos_hawaii_2022-12/Hilo_Hawaiian_Hotel2.jpeg" alt="Hilo Hawaiian Hotel" width="400"/></center> 
+- [Oahu](https://hematthi.github.io/personal/hawaii_2022-12_oahu.html)
+- [Big island](https://hematthi.github.io/personal/hawaii_2022-12_big_island.html)
+
+<center><img src="/personal/photos_hawaii_2022-12/oahu/Kualoa_Ranch2.jpeg" alt="Kualoa Ranch" width="400"/><img src="/personal/photos_hawaii_2022-12/oahu/Sea_Life_Park1.jpeg" alt="Sea Life Park dolphins exhibit" width="400"/></center> 
+<center><img src="/personal/photos_hawaii_2022-12/big_island/Pololu_Valley4.jpeg" alt="Pololu Valley" width="400"/><img src="/personal/photos_hawaii_2022-12/big_island/Hilo_Hawaiian_Hotel2.jpeg" alt="Hilo Hawaiian Hotel" width="400"/></center> 
 
 ---
 
