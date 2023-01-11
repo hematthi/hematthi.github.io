@@ -2,6 +2,16 @@
 
 ## December 20-26, 2022
 
+Jump to:
+
+- [Waikiki and Ala Moana](#familiar-views-in-waikiki-and-ala-moana)
+- [Sea Life Park and the Ka Moana Lu'au](sea-life-park-and-the-ka-moana-luau)
+- [Kualoa Ranch](#kualoa-ranch-a-movie-makers-paradise)
+- [Pearl Harbor and Iolani Palace](#pearl-harbor-and-iolani-palace)
+- [Diamond Head](#revisiting-diamond-head-at-sunrise)
+
+---
+
 
 ### Familiar views in Waikiki and Ala Moana
 
