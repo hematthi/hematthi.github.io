@@ -37,7 +37,7 @@ Views of the crater atop the Kilauea summit, with Mauna Loa to the right.
 <center><img src="photos_hawaii_2022-12/big_island/Kilauea3.jpeg" alt="Trail towards the crater on Kilauea" width="800"/></center>  
 Trail towards the crater on Kilauea.
 
-<center><img src="photos_hawaii_2022-12/big_island/Thurston_Lava_Tube1.jpeg" alt="One end of the Thurston Lava tube" width="400"/><img src="photos_hawaii_2022-12/big_island/Thurston_Lava_Tube2.jpeg" alt="Inside the Thurston Lava tube" width="400"/></center>  
+<center><img src="photos_hawaii_2022-12/big_island/Thurston_Lava_Tube1.JPG" alt="One end of the Thurston Lava tube" width="400"/><img src="photos_hawaii_2022-12/big_island/Thurston_Lava_Tube2.jpeg" alt="Inside the Thurston Lava tube" width="400"/></center>  
 Going through the Thurston Lava tube!
 
 ---
