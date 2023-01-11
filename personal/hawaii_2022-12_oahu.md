@@ -4,16 +4,16 @@
 
 Jump to:
 
-- [Waikiki and Ala Moana](#familiar-views-in-waikiki-and-ala-moana)
-- [Sea Life Park and the Ka Moana Lu'au](sea-life-park-and-the-ka-moana-luau)
-- [Kualoa Ranch](#kualoa-ranch-a-movie-makers-paradise)
-- [Pearl Harbor and Iolani Palace](#pearl-harbor-and-iolani-palace)
-- [Diamond Head](#revisiting-diamond-head-at-sunrise)
+- [Waikiki and Ala Moana](#waikiki)
+- [Sea Life Park and the Ka Moana Lu'au](#sea-life-park)
+- [Kualoa Ranch](#kualoa-ranch)
+- [Pearl Harbor and Iolani Palace](#pearl-harbor-downtown)
+- [Diamond Head](#diamond-head)
 
 ---
 
 
-### Familiar views in Waikiki and Ala Moana
+### Familiar views in Waikiki and Ala Moana {#waikiki}
 
 <center><img src="photos_hawaii_2022-12/oahu/Waikiki_beach1.jpeg" alt="Waikiki beach" width="800"/></center>  
 
@@ -36,7 +36,7 @@ Jump to:
 ---
 
 
-### Sea Life Park and the Ka Moana Lu'au
+### Sea Life Park and the Ka Moana Lu'au {#sea-life-park}
 
 <center><img src="photos_hawaii_2022-12/oahu/Sea_Life_Park2.jpeg" alt="View inland at the Sea Life Park" width="800"/></center>  
 View inland at the Sea Life Park.
@@ -62,7 +62,7 @@ View of the coast outside Sea Life Park.
 ---
 
 
-### Kualoa Ranch, a movie-maker's paradise
+### Kualoa Ranch, a movie-maker's paradise {#kualoa-ranch}
 
 <center><img src="photos_hawaii_2022-12/oahu/Kualoa_Ranch2.jpeg" alt="Kualoa Ranch entrance" width="800"/></center>  
 View near the entrance to Kualoa Ranch.
@@ -90,7 +90,7 @@ View of "Jurassic Valley".
 ---
 
 
-### Pearl Harbor and Iolani Palace
+### Pearl Harbor and Iolani Palace {#pearl-harbor-downtown}
 
 <center><img src="photos_hawaii_2022-12/oahu/Pearl_Harbor1.jpeg" alt="Pearl Harbor" width="800"/></center>  
 <center><img src="photos_hawaii_2022-12/oahu/Pearl_Harbor2.JPG" alt="Pearl Harbor" width="800"/></center>  
@@ -107,7 +107,7 @@ Mele Kalikimaka!
 ---
 
 
-### Revisiting Diamond Head -- at sunrise!
+### Revisiting Diamond Head -- at sunrise! {#diamond-head}
 
 <center><img src="photos_hawaii_2022-12/oahu/Diamond_Head_sunrise1.jpeg" alt="Sunrise at Diamond Head" width="400"/><img src="photos_hawaii_2022-12/oahu/Diamond_Head_sunrise2.jpeg" alt="Sunrise at Diamond Head" width="400"/></center>  
 <center><img src="photos_hawaii_2022-12/oahu/Diamond_Head_sunrise4.jpeg" alt="Sunrise at Diamond Head" width="400"/><img src="photos_hawaii_2022-12/oahu/Diamond_Head_sunrise3.jpeg" alt="Sunrise at Diamond Head" width="400"/></center>  
