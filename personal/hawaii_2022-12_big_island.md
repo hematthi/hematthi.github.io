@@ -2,8 +2,19 @@
 
 ## December 26, 2022 - January 3, 2023
 
+Jump to:
 
-### Hilo side and the Hilo Hawaiian Hotel
+- [Hilo side and the Hilo Hawaiian Hotel](#hilo)
+- [Rainbow Falls, Kilauea, and Lava Tubes](#island-tour)
+- [Visiting Scientist Quarters (VSQ)](#vsq)
+- [Mauna Kea Beach Hotel](#mauna-kea-beach)
+- [Pololu Valley](#pololu-valley)
+- [Drive up Mauna Kea: Saddle Road and Hale Pohaku](#mauna-kea)
+
+---
+
+
+### Hilo side and the Hilo Hawaiian Hotel {#hilo}
 
 <center><img src="photos_hawaii_2022-12/big_island/Hilo_Hawaiian_Hotel1.jpeg" alt="Hilo Hawaiian Hotel" width="800"/></center>  
 Hilo Hawaiian Hotel at night.
@@ -24,7 +35,7 @@ Statue of King Kamehameha, who united the Hawaiian islands.
 ---
 
 
-### Rainbow Falls, Kilauea, and Lava Tubes
+### Rainbow Falls, Kilauea, and Lava Tubes {#island-tour}
 
 <center><img src="photos_hawaii_2022-12/big_island/Rainbow_Fall1.jpeg" alt="Rainbow Falls" width="800"/></center>  
 <center><img src="photos_hawaii_2022-12/big_island/Rainbow_Fall3.jpeg" alt="Rainbow Falls" width="800"/></center>  
@@ -43,7 +54,7 @@ Going through the Thurston Lava tube!
 ---
 
 
-### Visiting Scientist Quarters (VSQ)
+### Visiting Scientist Quarters (VSQ) {#vsq}
 
 <center><img src="photos_hawaii_2022-12/big_island/VSQ1.jpeg" alt="VSQ front entrance" width="800"/></center>  
 Entrance to the VSQ.
@@ -57,7 +68,7 @@ View of Mauna Kea from my VSQ room (the telescopes on the summit are visible via
 ---
 
 
-### Mauna Kea Beach Hotel
+### Mauna Kea Beach Hotel {#mauna-kea-beach}
 
 <center><img src="photos_hawaii_2022-12/big_island/Mauna_Kea_Beach_Hotel4.jpeg" alt="Mauna Kea Beach Hotel" width="800"/></center>  
 Front entrance to the Mauna Kea Beach Hotel.
@@ -74,7 +85,7 @@ A perfect beach!
 ---
 
 
-### Pololu Valley
+### Pololu Valley {#pololu-valley}
 
 <center><img src="photos_hawaii_2022-12/big_island/Pololu_Valley1.jpeg" alt="Start of the hike at Pololu Valley" width="800"/></center>  
 View of Pololu Valley at the top of the hike.
@@ -93,7 +104,7 @@ Views at the bottom and beach of Pololu Valley.
 ---
 
 
-### Drive up Mauna Kea: volcanic terrain along Saddle Road and Hale Pohaku
+### Drive up Mauna Kea: volcanic terrain along Saddle Road and Hale Pohaku {#mauna-kea}
 
 <center><img src="photos_hawaii_2022-12/big_island/Volcanic_terrain2.jpeg" alt="Volcanic terrain along Saddle Road" width="800"/></center>  
 <center><img src="photos_hawaii_2022-12/big_island/Volcanic_terrain3.jpeg" alt="Volcanic terrain along Saddle Road" width="800"/></center>  
