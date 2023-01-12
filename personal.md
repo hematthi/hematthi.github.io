@@ -4,17 +4,17 @@
 
 ### [Iceland](https://hematthi.github.io/personal/iceland.html)
 
-In the summer of 2019, I had the wonderful opportunity to spend over a week in Iceland for the [Extreme Solar Systems IV](https://sites.northwestern.edu/iceland2019/) conference, where I gave a talk in front of over 600 leading astronomers and astrophysicists, the largest audience I've experienced! Here I provide an album of my photos from this trip.
+In the summer of 2019, I had the wonderful opportunity to spend over a week in Iceland for the [Extreme Solar Systems IV](https://sites.northwestern.edu/iceland2019/) conference, where I gave a talk in front of over 600 leading astronomers and astrophysicists, the largest audience I've experienced!
 
-<center><img src="/personal/photos_iceland/Snaefellsnes_coast2.JPG" alt="Snaefellsnes coast" width="400"/></center> 
+<center><img src="/personal/photos_iceland/Snaefellsnes_coast2.JPG" alt="Snaefellsnes coast" width="400"/><img src="/personal/photos_iceland/Kirkjufell_waterfall_mountain.JPG" alt="Kirkjufell" width="400"/></center> 
 
 ---
 
 ### [Hawaii (Jan 2020)](https://hematthi.github.io/personal/hawaii_2020-01.html)
 
-To start the new year of 2020, I spent a week in Honolulu, Hawaii to give a talk at the [ExoPAG 21 meeting](https://exoplanets.nasa.gov/exep/events/292/exopag-21/) and attend the [AAS 235](https://aas.org/meetings/aas235) conference. Here are some photos from this trip!
+To start the new year of 2020, I spent a week in Honolulu, Hawaii to give a talk at the [ExoPAG 21 meeting](https://exoplanets.nasa.gov/exep/events/292/exopag-21/) and attend the [AAS 235](https://aas.org/meetings/aas235) conference.
 
-<center><img src="/personal/photos_hawaii_2020-01/Ala_Moana_beach2.JPG" alt="Ala Moana beach" width="400"/></center> 
+<center><img src="/personal/photos_hawaii_2020-01/Ala_Moana_beach2.JPG" alt="Ala Moana beach" width="400"/><img src="/personal/photos_hawaii_2020-01/Diamond_Head_view.JPG" alt="View towards Waikiki atop Diamond Head" width="400"/></center> 
 
 ---
 
