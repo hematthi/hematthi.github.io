@@ -30,7 +30,7 @@ I had the opportunity to revisit Hawaii near the end of 2022 for a combined vaca
 
 ---
 
-### [Japan (Apr 2023)]((https://hematthi.github.io/personal/japan_2023.html))
+### [Japan (Apr 2023)](https://hematthi.github.io/personal/japan_2023.html)
 
 I had an amazing trip to Kyoto, Japan to attend the [Protostars and Planets VII](http://ppvii.org) conference in 2023!
 
