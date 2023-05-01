@@ -6,7 +6,7 @@ Jump to:
 
 - [The Prince Kyoto Takaragaike Hotel and the Kyoto International Conference Center](#hotel-venue)
 - [Fushimi Inari Taisha](#fushimi-inari-taisha)
-- [Downtown Kyoto](#downtown-kyoto)
+- [Downtown Kyoto: various streets, Nishiki Market, and Kyoto Station](#downtown-kyoto)
 - [Kiyomizu-Dera Temple](#kiyomizu-dera)
 - [Nijo Castle](#nijo-castle)
 
@@ -64,6 +64,12 @@ An intersection near the edge of downtown, with mountains nearby in the backgrou
 <center><img src="photos_japan_2023/Downtown_Kyoto_street4.jpeg" alt="Major road across downtown" width="800"/></center>  
 A major road going across downtown.
 
+<center><img src="photos_japan_2023/Nishiki_Market_street1.jpeg" alt="Nishiki Market" width="800"/></center>  
+Nishiki Market, a very popular tourist street with foods and gifts.
+
+<center><img src="photos_japan_2023/Teramachi-Dori_street2.jpeg" alt="Teramachi-Dori street" width="800"/></center>  
+Teramachi-Dori street, another popular shopping street intersecting the Nishiki Market street.
+
 <center><img src="photos_japan_2023/Downtown_Kyoto_night1.jpeg" alt="Night scene in Kyoto" width="800"/></center>  
 A downtown small river at night.
 
@@ -115,3 +121,16 @@ View of the inner moat surrounding Nijo Castle, from atop a keep tower.
 Close-up of cherry blossoms.
 
 ---
+
+
+### The vending machines of Japan! {#vending-machines}
+
+<center><img src="photos_japan_2023/Vending_machine_drinks1.jpeg" alt="Vending machine with drinks" width="400"/></center>  
+<center><img src="photos_japan_2023/Vending_machine_breads1.jpeg" alt="Vending machine with breads" width="400"/></center>  
+<center><img src="photos_japan_2023/Vending_machine_ice_cream1.jpeg" alt="Vending machine with ice cream" width="400"/></center>  
+<center><img src="photos_japan_2023/Vending_machine_snacks1.jpeg" alt="Vending machine with snacks" width="400"/></center>  
+Various vending machines.
+*(Top left)* Drinks are the most common, offer both hot and cold beverages, and are almost everywhere.
+*(Top right)* Breads (including pizzas and burgers!) are occasionally found.
+*(Bottom left)* Ice creams are found at each subway station.
+*(Bottom right)* Snacks at the Haneda airport in Tokyo.
