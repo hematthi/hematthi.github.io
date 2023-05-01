@@ -7,7 +7,8 @@ Jump to:
 - [The Prince Kyoto Takaragaike Hotel and the Kyoto International Conference Center](#hotel-venue)
 - [Fushimi Inari Taisha](#fushimi-inari-taisha)
 - [Downtown Kyoto](#downtown-kyoto)
-- [Kiyomizu-Dera Temple] (#kiyomizu-dera)
+- [Kiyomizu-Dera Temple](#kiyomizu-dera)
+- [Nijo Castle](#nijo-castle)
 
 ---
 
@@ -18,8 +19,8 @@ Jump to:
 The Prince Kyoto Takaragaike Hotel, *Autograph Collection*.
 
 <center><img src="photos_japan_2023/Street_between_hotel_and_venue1.jpeg" alt="Street between the hotel and the venue" width="800"/></center>  
-<center><img src="photos_japan_2023/Street_between_hotel_and_venue1.jpeg" alt="Street between the hotel and the venue" width="800"/></center>  
-Street view between the hotel (left side) and the conference venue (right side).
+<center><img src="photos_japan_2023/Street_between_hotel_and_venue2.jpeg" alt="Street between the hotel and the venue" width="800"/></center>  
+Street views between the hotel (left side) and the conference venue (right side).
 
 <center><img src="photos_japan_2023/Event_Hall1.jpeg" alt="Event hall" width="800"/></center>  
 The "Event Hall" of the Kyoto International Conference Center.
@@ -66,6 +67,15 @@ A major road going across downtown.
 <center><img src="photos_japan_2023/Downtown_Kyoto_night1.jpeg" alt="Night scene in Kyoto" width="800"/></center>  
 A downtown small river at night.
 
+<center><img src="photos_japan_2023/Kyoto_Station1.jpeg" alt="Kyoto Station" width="800"/></center>  
+Train tracks at the Kyoto Station.
+
+<center><img src="photos_japan_2023/Above_Kyoto_Station1.jpeg" alt="Above Kyoto Station" width="800"/></center>  
+Stairs leading to restaurants above the Kyoto Station.
+
+<center><img src="photos_japan_2023/Kyoto_Tower1.jpeg" alt="Kyoto Station" width="800"/></center>  
+View of the Kyoto tower at night.
+
 ---
 
 
@@ -82,5 +92,26 @@ Views of downtown from Kiyomizu-Dera.
 <center><img src="photos_japan_2023/Kiyomizu-Dera_Temple3.jpeg" alt="Kiyomizu-Dera temple" width="800"/></center>  
 <center><img src="photos_japan_2023/Kiyomizu-Dera_Temple4.jpeg" alt="View of the main Kiyomizu-Dera temple" width="800"/></center>  
 Views of the main temple at Kiyomizu-Dera.
+
+<center><img src="photos_japan_2023/Sannenzaka_street1.jpeg" alt="Sannenzaka stone streets" width="800"/></center>  
+<center><img src="photos_japan_2023/Ninenzaka_street1.jpeg" alt="View of Ninenzaka area" width="800"/></center>  
+Stone streets and shops near Kiyomizu-Dera.
+
+---
+
+
+### Nijo Castle and cherry blossoms {#nijo-castle}
+
+<center><img src="photos_japan_2023/Nijo_Castle1.jpeg" alt="Gates to Nijo Castle" width="800"/></center>  
+Golden gates entering Nijo Castle.
+
+<center><img src="photos_japan_2023/Nijo_Castle2.jpeg" alt="Pond in Nijo Castle" width="800"/></center>  
+Pond in Nijo Castle.
+
+<center><img src="photos_japan_2023/Nijo_Castle3.jpeg" alt="View of moat from a keep" width="800"/></center>  
+View of the inner moat surrounding Nijo Castle, from atop a keep tower.
+
+<center><img src="photos_japan_2023/Cherry_blossom1.jpeg" alt="Cherry blossoms" width="800"/></center>  
+Close-up of cherry blossoms.
 
 ---
