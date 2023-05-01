@@ -125,12 +125,10 @@ Close-up of cherry blossoms.
 
 ### The vending machines of Japan! {#vending-machines}
 
-<center><img src="photos_japan_2023/Vending_machine_drinks1.jpeg" alt="Vending machine with drinks" width="400"/></center>  
-<center><img src="photos_japan_2023/Vending_machine_breads1.jpeg" alt="Vending machine with breads" width="400"/></center>  
-<center><img src="photos_japan_2023/Vending_machine_ice_cream1.jpeg" alt="Vending machine with ice cream" width="400"/></center>  
-<center><img src="photos_japan_2023/Vending_machine_snacks1.jpeg" alt="Vending machine with snacks" width="400"/></center>  
+<center><img src="photos_japan_2023/Vending_machine_drinks1.jpeg" alt="Vending machine with drinks" width="400"/><img src="photos_japan_2023/Vending_machine_breads1.jpeg" alt="Vending machine with breads" width="400"/></center>  
+<center><img src="photos_japan_2023/Vending_machine_ice_cream1.jpeg" alt="Vending machine with ice cream" width="400"/><img src="photos_japan_2023/Vending_machine_snacks1.jpeg" alt="SVending machine with snacks" width="400"/></center>  
 Various vending machines.
-*(Top left)* Drinks are the most common, offer both hot and cold beverages, and are almost everywhere.
-*(Top right)* Breads (including pizzas and burgers!) are occasionally found.
-*(Bottom left)* Ice creams are found at each subway station.
-*(Bottom right)* Snacks at the Haneda airport in Tokyo.
+- *(Top left)* Drinks are the most common, offer both hot and cold beverages, and are almost everywhere.
+- *(Top right)* Breads (including pizzas and burgers!) are occasionally found.
+- *(Bottom left)* Ice creams are found at each subway station.
+- *(Bottom right)* Snacks at the Haneda airport in Tokyo.
