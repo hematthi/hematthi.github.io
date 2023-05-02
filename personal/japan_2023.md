@@ -68,10 +68,10 @@ A major road going across downtown.
 Nishiki Market, a very popular tourist street with foods and gifts.
 
 <center><img src="photos_japan_2023/Teramachi-Dori_street2.jpeg" alt="Teramachi-Dori street" width="800"/></center>  
-Teramachi-Dori street, another popular shopping street intersecting the Nishiki Market street.
+Teramachi-Dori, another popular shopping street intersecting the Nishiki Market street.
 
 <center><img src="photos_japan_2023/Downtown_Kyoto_night1.jpeg" alt="Night scene in Kyoto" width="800"/></center>  
-A downtown small river at night.
+A small river in the downtown area at night.
 
 <center><img src="photos_japan_2023/Kyoto_Station1.jpeg" alt="Kyoto Station" width="800"/></center>  
 Train tracks at the Kyoto Station.
@@ -128,7 +128,7 @@ Close-up of cherry blossoms.
 <center><img src="photos_japan_2023/Vending_machine_drinks1.jpeg" alt="Vending machine with drinks" width="400"/><img src="photos_japan_2023/Vending_machine_breads1.jpeg" alt="Vending machine with breads" width="400"/></center>  
 <center><img src="photos_japan_2023/Vending_machine_ice_cream1.jpeg" alt="Vending machine with ice cream" width="400"/><img src="photos_japan_2023/Vending_machine_snacks1.jpeg" alt="SVending machine with snacks" width="400"/></center>  
 Various vending machines.
-- *(Top left)* Drinks are the most common, offer both hot and cold beverages, and are almost everywhere.
+- *(Top left)* Drinks (with both hot and cold options) are the most common and are almost everywhere.
 - *(Top right)* Breads (including pizzas and burgers!) are occasionally found.
 - *(Bottom left)* Ice creams are found at each subway station.
 - *(Bottom right)* Snacks at the Haneda airport in Tokyo.
