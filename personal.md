@@ -34,6 +34,9 @@ I had the opportunity to revisit Hawaii near the end of 2022 for a combined vaca
 
 I had an amazing trip to Kyoto, Japan to attend the [Protostars and Planets VII](http://ppvii.org) conference in 2023!
 
+<center><img src="/personal/photos_japan_2023/The_Prince_Kyoto_Takaragaike_Hotel1.jpeg" alt="The Prince Kyoto Takaragaike Hotel" width="400"/><img src="/personal/photos_japan_2023/Fushimi_Inari_Taisha2.jpeg" alt="Fushimi Inari Taisha" width="400"/></center> 
+<center><img src="/personal/photos_japan_2023/Nijo_Castle2.jpeg" alt="Pond in Nijo Castle" width="400"/><img src="/personal/photos_japan_2023/Arashiyama_river_hotel1.jpeg" alt="Hotel along Katsuragawa" width="400"/></center> 
+
 ---
 
 

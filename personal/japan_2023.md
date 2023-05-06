@@ -11,6 +11,7 @@ Jump to:
 - [Nijo Castle](#nijo-castle)
 - [Arashiyama: bamboo forests, Katsuragawa, and Monkey Park](#arashiyama)
 - [The vending machines of Japan!](#vending-machines)
+- [Food!](#foods)
 
 ---
 
@@ -165,14 +166,14 @@ Various vending machines.
 
 ### Various foods I enjoyed in Japan {#foods}
 
-<center><img src="photos_japan_2023/Food_Japanese_breakfast1.jpeg" alt="" width="400"/><img src="photos_japan_2023/Food_sushi1.jpeg" alt="" width="400"/></center>  
-Traditional Japanese breakfast trays and sushi.
+<center><img src="photos_japan_2023/Food_Japanese_breakfast1.jpeg" alt="Japanese breakfast" width="400"/><img src="photos_japan_2023/Food_sushi1.jpeg" alt="Sushi" width="400"/></center>  
+Traditional Japanese breakfast and sushi.
 
-<center><img src="photos_japan_2023/Food_smoked_meat_sushi1.jpeg" alt="" width="400"/><img src="photos_japan_2023/Food_matcha_shaved_ice1.jpeg" alt="" width="400"/></center>  
+<center><img src="photos_japan_2023/Food_smoked_meat_sushi1.jpeg" alt="Smoked meat sushi" width="400"/><img src="photos_japan_2023/Food_matcha_shaved_ice1.jpeg" alt="Matcha desserts" width="400"/></center>  
 Smoked meat sushi and matcha shaved ice + ice cream.
 
-<center><img src="photos_japan_2023/Food_tempura_hamburger1.jpeg" alt="" width="400"/><img src="photos_japan_2023/Food_noodles1.jpeg" alt="" width="400"/></center>  
+<center><img src="photos_japan_2023/Food_tempura_hamburger1.jpeg" alt="Tempura and hamburger" width="400"/><img src="photos_japan_2023/Food_noodles1.jpeg" alt="Udon noodles" width="400"/></center>  
 Tempura and hamburger steak meal (from a restaurant at the conference venue), and udon noodles.
 
-<center><img src="photos_japan_2023/Food_unagi1.jpeg" alt="" width="400"/><img src="photos_japan_2023/Food_dessert1.jpeg" alt="" width="400"/></center>  
+<center><img src="photos_japan_2023/Food_unagi1.jpeg" alt="Unagi on rice" width="400"/><img src="photos_japan_2023/Food_dessert1.jpeg" alt="Dessert bowl" width="400"/></center>  
 Unagi (grilled eel) on rice and assorted dessert bowl.
