@@ -9,6 +9,8 @@ Jump to:
 - [Downtown Kyoto: various streets, Nishiki Market, and Kyoto Station](#downtown-kyoto)
 - [Kiyomizu-Dera Temple](#kiyomizu-dera)
 - [Nijo Castle](#nijo-castle)
+- [Arashiyama: bamboo forests, Katsuragawa, and Monkey Park](#arashiyama)
+- [The vending machines of Japan!](#vending-machines)
 
 ---
 
@@ -119,6 +121,33 @@ View of the inner moat surrounding Nijo Castle, from atop a keep tower.
 
 <center><img src="photos_japan_2023/Cherry_blossom1.jpeg" alt="Cherry blossoms" width="800"/></center>  
 Close-up of cherry blossoms.
+
+---
+
+
+### Arashiyama: bamboo forests, Katsuragawa (Katsura River), and Monkey Park {#arashiyama}
+
+<center><img src="photos_japan_2023/Arashiyama_bamboo_forest1.jpeg" alt="Arashiyama Bamboo Grove" width="800"/></center>  
+A busy day at the Arashiyama Bamboo Grove walkway.
+
+<center><img src="photos_japan_2023/Arashiyama_bamboo_forest2.jpeg" alt="Bamboo forest in Tenryu-Ji temple" width="800"/></center>  
+Bamboo forest in the Tenryu-Ji temple.
+
+<center><img src="photos_japan_2023/Arashiyama_river_bridge1.jpeg" alt="Bridge across Katsuragawa" width="800"/></center>  
+View of a bridge crossing Katsuragawa, the river separating the side with the bamboo forests and the side with the Monkey Park mountain.
+
+<center><img src="photos_japan_2023/Arashiyama_river1.jpeg" alt="View of Katsuragawa" width="800"/></center>  
+<center><img src="photos_japan_2023/Arashiyama_boats1.jpeg" alt="Row boats on Katsuragawa" width="800"/></center>  
+Views of Katsuragawa after crossing the bridge.
+
+<center><img src="photos_japan_2023/Arashiyama_restaurants1.jpeg" alt="Restaurants and shops along Katsuragawa" width="800"/></center>  
+<center><img src="photos_japan_2023/Arashiyama_restaurants2.jpeg" alt="Restaurants and shops along Katsuragawa" width="800"/></center>  
+<center><img src="photos_japan_2023/Arashiyama_river_hotel1.jpeg" alt="Hotel along Katsuragawa" width="800"/></center>  
+Views of some restaurants, shops, and hotels along Katsuragawa.
+
+<center><img src="photos_japan_2023/Arashiyama_Monkey_Park1.jpeg" alt="View atop the Monkey Park" width="800"/></center>  
+<center><img src="photos_japan_2023/Arashiyama_Monkey_Park2.jpeg" alt="View atop the Monkey Park" width="800"/></center>  
+Views towards Kyoto from atop the Arashiyama Monkey Park!
 
 ---
 
