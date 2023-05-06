@@ -147,7 +147,7 @@ Views of some restaurants, shops, and hotels along Katsuragawa.
 
 <center><img src="photos_japan_2023/Arashiyama_Monkey_Park1.jpeg" alt="View atop the Monkey Park" width="800"/></center>  
 <center><img src="photos_japan_2023/Arashiyama_Monkey_Park2.jpeg" alt="View atop the Monkey Park" width="800"/></center>  
-Views towards Kyoto from atop the Arashiyama Monkey Park!
+Views towards Kyoto from atop the Arashiyama Monkey Park, home to hundreds of Macaque monkeys!
 
 ---
 
@@ -155,9 +155,24 @@ Views towards Kyoto from atop the Arashiyama Monkey Park!
 ### The vending machines of Japan! {#vending-machines}
 
 <center><img src="photos_japan_2023/Vending_machine_drinks1.jpeg" alt="Vending machine with drinks" width="400"/><img src="photos_japan_2023/Vending_machine_breads1.jpeg" alt="Vending machine with breads" width="400"/></center>  
-<center><img src="photos_japan_2023/Vending_machine_ice_cream1.jpeg" alt="Vending machine with ice cream" width="400"/><img src="photos_japan_2023/Vending_machine_snacks1.jpeg" alt="SVending machine with snacks" width="400"/></center>  
+<center><img src="photos_japan_2023/Vending_machine_ice_cream1.jpeg" alt="Vending machine with ice cream" width="400"/><img src="photos_japan_2023/Vending_machine_snacks1.jpeg" alt="Vending machine with snacks" width="400"/></center>  
 Various vending machines.
 - *(Top left)* Drinks (with both hot and cold options) are the most common and are almost everywhere.
 - *(Top right)* Breads (including pizzas and burgers!) are occasionally found.
 - *(Bottom left)* Ice creams are found at each subway station.
 - *(Bottom right)* Snacks at the Haneda airport in Tokyo.
+
+
+### Various foods I enjoyed in Japan {#foods}
+
+<center><img src="photos_japan_2023/Food_Japanese_breakfast1.jpeg" alt="" width="400"/><img src="photos_japan_2023/Food_sushi1.jpeg" alt="" width="400"/></center>  
+Traditional Japanese breakfast trays and sushi.
+
+<center><img src="photos_japan_2023/Food_smoked_meat_sushi1.jpeg" alt="" width="400"/><img src="photos_japan_2023/Food_matcha_shaved_ice1.jpeg" alt="" width="400"/></center>  
+Smoked meat sushi and matcha shaved ice + ice cream.
+
+<center><img src="photos_japan_2023/Food_tempura_hamburger1.jpeg" alt="" width="400"/><img src="photos_japan_2023/Food_noodles1.jpeg" alt="" width="400"/></center>  
+Tempura and hamburger steak meal (from a restaurant at the conference venue), and udon noodles.
+
+<center><img src="photos_japan_2023/Food_unagi1.jpeg" alt="" width="400"/><img src="photos_japan_2023/Food_dessert1.jpeg" alt="" width="400"/></center>  
+Unagi (grilled eel) on rice and assorted dessert bowl.
