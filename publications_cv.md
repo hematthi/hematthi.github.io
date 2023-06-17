@@ -29,6 +29,10 @@ To view my full academic CV, click [here](./he_matthias_CV.pdf) (last updated De
 
 ### Publications
 
+* [Inner Planetary System Gap Complexity is a Predictor of Outer Giant Planets](https://ui.adsabs.harvard.edu/abs/2023arXiv230608846H/abstract)  
+  **Matthias Y. He**, Lauren M. Weiss, 2023, accepted to AJ  
+  arXiv link: [2306.08846](https://arxiv.org/abs/2306.08846)
+
 * [Debiasing the Minimum-Mass Extrasolar Nebula: On the Diversity of Solid Disk Profiles](https://ui.adsabs.harvard.edu/abs/2022arXiv220809031H/abstract)  
   **Matthias Y. He**, Eric B. Ford, 2022, AJ, 164, 210-220  
   arXiv link: [2208.09031](https://arxiv.org/abs/2208.09031)
@@ -96,6 +100,8 @@ To view my full academic CV, click [here](./he_matthias_CV.pdf) (last updated De
 
 
 ### Conferences and Presentations
+
+* [Protostars and Planets VII](http://ppvii.org) - *Poster* (Apr 10-15, 2023 - Kyoto, Japan)
 
 * [COSE-JAM](https://science.nd.edu/events/2022/12/09/cose-jam-colleges-of-science-and-engineering-joint-annual-meeting/) - *Poster* (Dec 9, 2022 - Notre Dame)
 
