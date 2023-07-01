@@ -29,15 +29,19 @@ To view my full academic CV, click [here](./he_matthias_CV.pdf) (last updated De
 
 ### Publications
 
+* Beyond 2-D Mass-Radius Relationships: A Nonparametric and Probabilistic Framework for Characterizing Planetary Samples in Higher Dimensions (submitted)  
+  Shubham Kanodia, **Matthias Y. He**, Eric B. Ford, Sujit K. Ghosh, Angie Wolfgang, submitted to AJ, (18pp)
+
 * [Inner Planetary System Gap Complexity is a Predictor of Outer Giant Planets](https://ui.adsabs.harvard.edu/abs/2023arXiv230608846H/abstract)  
-  **Matthias Y. He**, Lauren M. Weiss, 2023, accepted to AJ  
-  arXiv link: [2306.08846](https://arxiv.org/abs/2306.08846)
+  **Matthias Y. He**, Lauren M. Weiss, 2023, AJ, 166, 36-48  
+  arXiv link: [2306.08846](https://arxiv.org/abs/2306.08846)  
+  Press: [Universe Today article on our paper](https://phys.org/news/2023-06-giant-planets.html)
 
 * [Debiasing the Minimum-Mass Extrasolar Nebula: On the Diversity of Solid Disk Profiles](https://ui.adsabs.harvard.edu/abs/2022arXiv220809031H/abstract)  
   **Matthias Y. He**, Eric B. Ford, 2022, AJ, 164, 210-220  
   arXiv link: [2208.09031](https://arxiv.org/abs/2208.09031)
 
-* Developing a Drift Rate Distribution for Technosignature Searches of Exoplanets (submitted)  
+* Developing a Drift Rate Distribution for Technosignature Searches of Exoplanets (under review)  
   Megan G. Li, Sofia Z. Sheikh, Christian Gilbertson, **Matthias Y. He**, Howard Isaacson, Steve Croft, Evan L. Sneed, submitted to AJ, (11pp)
 
 * [Edge-of-the-Multis: Evidence for a Transition in the Outer Architectures of Compact Multiplanet Systems](https://ui.adsabs.harvard.edu/abs/2022AJ....164...72M/abstract)  
@@ -55,6 +59,7 @@ To view my full academic CV, click [here](./he_matthias_CV.pdf) (last updated De
 * [Architectures of Exoplanetary Systems. III: Eccentricity and Mutual Inclination Distributions of AMD-stable Planetary Systems](https://ui.adsabs.harvard.edu/abs/2020arXiv200714473H/abstract)  
   **Matthias Y. He**, Eric B. Ford, Darin Ragozzine, Daniel Carrera, 2020, AJ, 160, 276-314  
   arXiv link: [2007.14473](https://arxiv.org/abs/2007.14473)  
+  Press Release: [Penn State ICDS News article on our paper](https://www.icds.psu.edu/astronomers-develop-model-for-the-distribution-of-inner-planetary-systems/)  
   Github repository: [SysSimExClusters (He_et_al_2020b branch)](https://github.com/ExoJulia/SysSimExClusters/tree/He_et_al_2020b)
 
 * [Architectures of Exoplanetary Systems. II: An Increase in Inner Planetary System Occurrence Towards Later Spectral Types for Kepler's FGK Dwarfs](https://ui.adsabs.harvard.edu/abs/2021AJ....161...16H/abstract)  
