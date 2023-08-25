@@ -29,10 +29,12 @@ To view my full academic CV, click [here](./he_matthias_CV.pdf) (last updated Ju
 
 ### Publications
 
-* Beyond 2-D Mass-Radius Relationships: A Nonparametric and Probabilistic Framework for Characterizing Planetary Samples in Higher Dimensions (submitted)  
-  Shubham Kanodia, **Matthias Y. He**, Eric B. Ford, Sujit K. Ghosh, Angie Wolfgang, submitted to AJ, (18pp)
+* [Beyond 2-D Mass-Radius Relationships: A Nonparametric and Probabilistic Framework for Characterizing Planetary Samples in Higher Dimensions](https://ui.adsabs.harvard.edu/abs/2023arXiv230810615K/abstract)  
+  Shubham Kanodia, **Matthias Y. He**, Eric B. Ford, Sujit K. Ghosh, Angie Wolfgang, 2023 in press, AJ, 18pp  
+  arXiv link: [2308.10615](https://arxiv.org/abs/2308.10615)
+  Github repository: [MRExo](https://github.com/shbhuk/mrexo/tree/master)
 
-* [Inner Planetary System Gap Complexity is a Predictor of Outer Giant Planets](https://ui.adsabs.harvard.edu/abs/2023arXiv230608846H/abstract)  
+* [Inner Planetary System Gap Complexity is a Predictor of Outer Giant Planets](https://ui.adsabs.harvard.edu/abs/2023AJ....166...36H/abstract)  
   **Matthias Y. He**, Lauren M. Weiss, 2023, AJ, 166, 36-48  
   arXiv link: [2306.08846](https://arxiv.org/abs/2306.08846)  
   Press: [Universe Today article on our paper](https://phys.org/news/2023-06-giant-planets.html)
