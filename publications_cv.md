@@ -24,7 +24,7 @@ Dissertation: [*Statistical Inference on the Distribution of Exoplanetary System
 Advisor: Prof. Dae-Sik Moon
 
 
-To view my full academic CV, click [here](./he_matthias_CV.pdf) (last updated July 1, 2023).
+To view my full academic CV, click [here](./he_matthias_CV.pdf) (last updated Sept 22, 2023).
 
 
 ### Publications
@@ -107,6 +107,12 @@ To view my full academic CV, click [here](./he_matthias_CV.pdf) (last updated Ju
 
 
 ### Conferences and Presentations
+
+* [Postdoc Lightning Talk Competition](https://science.nd.edu/events/2023/09/21/postdoc-lightning-talk-competition/), **2nd place finish** - *3min Talk* (Sep 21, 2023 - Notre Dame)
+
+* [Astrophysics Seminar](https://physics.nd.edu/news-events/events/2023/09/19/astrophysics-seminar-dr-matthias-he-university-of-notre-dame/) - *Talk* (Sep 19, 2023 - Notre Dame)
+
+* [IU Tea Talk](https://events.iu.edu/astronomy/event/1110851-iu-astronomy-tea-talk) - *Talk* (Sep 11, 2023 - IU Bloomington)
 
 * [Protostars and Planets VII](http://ppvii.org) - *Poster* (Apr 10-15, 2023 - Kyoto, Japan)
 
