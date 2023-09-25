@@ -89,6 +89,10 @@ To view my full academic CV, click [here](./he_matthias_CV.pdf) (last updated Se
 
 ### Software Packages
 
+* [MRExo](https://mrexo.readthedocs.io/en/latest/)  
+  Language: Python 3  
+  Developers: Shubham Kanodia, **Matthias Y. He**
+
 * [SysSimPyMMEN](https://syssimpymmen.readthedocs.io/en/latest/)  
   Language: Python 3  
   Developers: **Matthias Y. He**
