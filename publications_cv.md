@@ -29,8 +29,11 @@ To view my full academic CV, click [here](./he_matthias_CV.pdf) (last updated Se
 
 ### Publications
 
+* [Developing a Drift Rate Distribution for Technosignature Searches of Exoplanets](https://iopscience.iop.org/article/10.3847/1538-3881/acf83d)  
+  Megan G. Li, Sofia Z. Sheikh, Christian Gilbertson, **Matthias Y. He**, Howard Isaacson, Steve Croft, Evan L. Sneed, 2023, AJ, 166, 182-192
+
 * [Beyond 2-D Mass-Radius Relationships: A Nonparametric and Probabilistic Framework for Characterizing Planetary Samples in Higher Dimensions](https://ui.adsabs.harvard.edu/abs/2023arXiv230810615K/abstract)  
-  Shubham Kanodia, **Matthias Y. He**, Eric B. Ford, Sujit K. Ghosh, Angie Wolfgang, 2023 in press, AJ, 18pp  
+  Shubham Kanodia, **Matthias Y. He**, Eric B. Ford, Sujit K. Ghosh, Angie Wolfgang, 2023, AJ, 956, 76-89  
   arXiv link: [2308.10615](https://arxiv.org/abs/2308.10615)  
   Github repository: [MRExo](https://github.com/shbhuk/mrexo/tree/master)
 
@@ -42,9 +45,6 @@ To view my full academic CV, click [here](./he_matthias_CV.pdf) (last updated Se
 * [Debiasing the Minimum-Mass Extrasolar Nebula: On the Diversity of Solid Disk Profiles](https://ui.adsabs.harvard.edu/abs/2022arXiv220809031H/abstract)  
   **Matthias Y. He**, Eric B. Ford, 2022, AJ, 164, 210-220  
   arXiv link: [2208.09031](https://arxiv.org/abs/2208.09031)
-
-* Developing a Drift Rate Distribution for Technosignature Searches of Exoplanets (under review)  
-  Megan G. Li, Sofia Z. Sheikh, Christian Gilbertson, **Matthias Y. He**, Howard Isaacson, Steve Croft, Evan L. Sneed, submitted to AJ, (11pp)
 
 * [Edge-of-the-Multis: Evidence for a Transition in the Outer Architectures of Compact Multiplanet Systems](https://ui.adsabs.harvard.edu/abs/2022AJ....164...72M/abstract)  
   Sarah C. Millholland, **Matthias Y. He**, Jon K. Zink, 2022, AJ, 164, 72-87  
@@ -112,6 +112,8 @@ To view my full academic CV, click [here](./he_matthias_CV.pdf) (last updated Se
 
 ### Conferences and Presentations
 
+* [GLEAM 2023](https://astro.indiana.edu/news-events/events/gleam-2023/) - *Talk* (Oct 27-28, 2023 - IU Bloomington)
+
 * [Postdoc Lightning Talk Competition](https://science.nd.edu/events/2023/09/21/postdoc-lightning-talk-competition/), **2nd place finish** - *3min Talk* (Sep 21, 2023 - Notre Dame)
 
 * [Astrophysics Seminar](https://physics.nd.edu/news-events/events/2023/09/19/astrophysics-seminar-dr-matthias-he-university-of-notre-dame/) - *Talk* (Sep 19, 2023 - Notre Dame)
@@ -122,7 +124,7 @@ To view my full academic CV, click [here](./he_matthias_CV.pdf) (last updated Se
 
 * [COSE-JAM](https://science.nd.edu/events/2022/12/09/cose-jam-colleges-of-science-and-engineering-joint-annual-meeting/) - *Poster* (Dec 9, 2022 - Notre Dame)
 
-* [GLEAM](https://u.osu.edu/gleam2022/) - *Talk* (Nov 17-18, 2022 - Ohio State)
+* [GLEAM 2022](https://u.osu.edu/gleam2022/) - *Talk* (Nov 17-18, 2022 - Ohio State)
 
 * Penn State Dissertation Defense - [*Thesis Talk* (recording on exoplanet-talks.org!)](https://exoplanet-talks.org/talk/402) (Feb 15, 2022 - Virtual)
 
