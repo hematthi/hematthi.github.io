@@ -5,8 +5,12 @@
 
 ### Positions
 
+**NASA Postdoctoral Program (NPP) Fellow**, NASA Ames Research Center  
+2024 - Present
+Advisors: Steve Bryson, Jon Jenkins, Douglas Caldwell
+
 **Postdoctoral Research Associate**, University of Notre Dame  
-2022 - Present  
+2022 - 2024  
 Advisor: Prof. Lauren M. Weiss
 
 
@@ -111,6 +115,8 @@ To view my full academic CV, click [here](./he_matthias_CV.pdf) (last updated Se
 
 
 ### Conferences and Presentations
+
+* Ames HWO Meeting - *Talk (with Aritra Chakrabarty)* (Aug 26, 2024 - NASA Ames)
 
 * [GLEAM 2023](https://astro.indiana.edu/news-events/events/gleam-2023/) - *Talk* (Oct 27-28, 2023 - IU Bloomington)
 
