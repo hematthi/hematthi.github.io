@@ -2,12 +2,16 @@
 
 <img src="/photos/AAS235_headshot1.JPG" alt="Photo of me taken at AAS 235" width="300"/>  
 
+**Contact emails:**  
+NASA: *matthias.y.he (at) nasa.gov* (Note: this is firewalled and not all content may get through)  
+Personal: *matthias.he (at) alumni.utoronto.ca*
+
 
 ### Positions
 
 **NASA Postdoctoral Program (NPP) Fellow**, NASA Ames Research Center  
 2024 - Present  
-Advisors: Steve Bryson, Jon Jenkins, Douglas Caldwell
+Advisors: Dr. Steve Bryson, Dr. Jon Jenkins, Dr. Douglas Caldwell
 
 **Postdoctoral Research Associate**, University of Notre Dame  
 2022 - 2024  
@@ -28,7 +32,7 @@ Dissertation: [*Statistical Inference on the Distribution of Exoplanetary System
 Advisor: Prof. Dae-Sik Moon
 
 
-To view my full academic CV, click [here](./he_matthias_CV.pdf) (last updated Sept 22, 2023).
+To view my full academic CV, click [here](./he_matthias_CV.pdf) (last updated Jan 26, 2025).
 
 
 ### Publications
@@ -115,6 +119,8 @@ To view my full academic CV, click [here](./he_matthias_CV.pdf) (last updated Se
 
 
 ### Conferences and Presentations
+
+* [AAS 245](https://aas.org/meetings/aas245) - *iPosters* (Jan 12-16, 2025 - National Harbor, MD)
 
 * Ames HWO Meeting - *Talk (with Aritra Chakrabarty)* (Aug 26, 2024 - NASA Ames)
 
