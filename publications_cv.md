@@ -9,7 +9,7 @@ Personal: *matthias.he (at) alumni.utoronto.ca*
 
 ### Positions
 
-**NASA Postdoctoral Program (NPP) Fellow**, NASA Ames Research Center  
+**NASA Postdoctoral Program (NPP) Fellow** → **SETI Postdoctoral Researcher**, NASA Ames Research Center  
 2024 - Present  
 Advisors: Dr. Steve Bryson, Dr. Jon Jenkins, Dr. Douglas Caldwell
 
@@ -36,6 +36,18 @@ To view my full academic CV, click [here](./he_matthias_CV.pdf) (last updated Ja
 
 
 ### Publications
+
+* [Architectures of Exoplanetary Systems. IV: A Multi-planet Model for Reproducing the Radius Valley and Intra-system Size Similarity of Planets around Kepler's FGK Dwarfs](https://ui.adsabs.harvard.edu/abs/2026ApJ..1001...78H/abstract)  
+  **Matthias Y. He**, Eric B. Ford, 2026, ApJ, 1001, 78-112
+
+* [Why Estimating η⊕ is Difficult: A Kepler-Centric Perspective](https://ui.adsabs.harvard.edu/abs/2025PASP..137l4401B/abstract)  
+  Steve Bryson, Michelle Kunimoto, Ruslan Belikov, incl. **Matthias Y. He**, 2025, PASP, 137, 124401, 21pp
+
+* [Are We There Yet? Challenges in Quantifying the Frequency of Earth Analogs in the Habitable Zone](https://ui.adsabs.harvard.edu/abs/2025PASP..137l1001F/abstract)  
+  Rachel B. Fernandes, Samson Johnson, Galen J. Bergsten, incl. **Matthias Y. He** (lead authors), 2025, PASP, 137, 121001, 28pp
+
+* [Biases from Missing a Small Planet in High Multiplicity Systems](https://ui.adsabs.harvard.edu/abs/2025ApJ...984L..30T/abstract)  
+  Alexander C. Thomas, Lauren M. Weiss, **Matthias Y. He**, 2025, ApJL, 984, L30-39
 
 * [Developing a Drift Rate Distribution for Technosignature Searches of Exoplanets](https://iopscience.iop.org/article/10.3847/1538-3881/acf83d)  
   Megan G. Li, Sofia Z. Sheikh, Christian Gilbertson, **Matthias Y. He**, Howard Isaacson, Steve Croft, Evan L. Sneed, 2023, AJ, 166, 182-192
@@ -119,6 +131,18 @@ To view my full academic CV, click [here](./he_matthias_CV.pdf) (last updated Ja
 
 
 ### Conferences and Presentations
+
+* [AAS 247](https://aas.org/meetings/aas247) - *Talk* (Jan 8, 2026 - Phoenix, AZ)
+
+* [Origins Seminar](https://alienearths.space/origins-seminar/) - *Talk* (Nov 24, 2025 - UArizona)
+
+* [NPP Virtual Symposium](https://event.fourwaves.com/nasa-ppvs25/schedule?date=2025-11-20) - *Talk* (Nov 20, 2025 - Virtual)
+
+* [Sagan Summer Workshop 2025](https://nexsci.caltech.edu/workshop/2025/) - *Poster* (Jul 21-25, 2025 - Caltech)
+
+* CCA Exoplanet Meeting - *Talk* (Jun 26, 2025 - Flatiron Institute)
+
+* [Exoplanet Dynamics & Modeling](https://www.konstantinbatygin.com/edm1) - *Talk* (Mar 11-14, 2025 - Caltech)
 
 * [AAS 245](https://aas.org/meetings/aas245) - *iPosters* (Jan 12-16, 2025 - National Harbor, MD)
 
