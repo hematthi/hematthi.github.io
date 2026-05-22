@@ -3,8 +3,11 @@
 <img src="/photos/AAS235_headshot1.JPG" alt="Photo of me taken at AAS 235" width="300"/>  
 
 **Contact emails:**  
-NASA: *matthias.y.he (at) nasa.gov* (Note: this is firewalled and not all content may get through)  
+NASA\*: *matthias.y.he (at) nasa.gov*  
+SETI: *mhe (at) seti.org*  
 Personal: *matthias.he (at) alumni.utoronto.ca*
+
+\*Note: this is firewalled and not all content may get through.
 
 
 ### Positions
@@ -32,7 +35,7 @@ Dissertation: [*Statistical Inference on the Distribution of Exoplanetary System
 Advisor: Prof. Dae-Sik Moon
 
 
-To view my full academic CV, click [here](./he_matthias_CV.pdf) (last updated Jan 26, 2025).
+To view my full academic CV, click [here](./He_Matthias_CV.pdf) (last updated May 22, 2026).
 
 
 ### Publications
